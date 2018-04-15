@@ -182,22 +182,22 @@
   ],
   "bytecode": "0x6060604052341561000f57600080fd5b60405160208061060c8339810160405280805160008054600160a060020a03191633600160a060020a039081169190911790915590925082161515905061005557600080fd5b60028054600160a060020a031916600160a060020a03929092169190911760a060020a60ff021916905561057e8061008e6000396000f3006060604052600436106100985763ffffffff7c010000000000000000000000000000000000000000000000000000000060003504166343d726d6811461009d578063521eb273146100b25780638c52dc41146100e15780638da5cb5b146100f4578063c19d93fb14610107578063cb13cddb1461013e578063f2fde38b1461016f578063f340fa011461018e578063fa89401a146101a2575b600080fd5b34156100a857600080fd5b6100b06101c1565b005b34156100bd57600080fd5b6100c561029c565b604051600160a060020a03909116815260200160405180910390f35b34156100ec57600080fd5b6100b06102ab565b34156100ff57600080fd5b6100c561033c565b341561011257600080fd5b61011a61034b565b6040518082600281111561012a57fe5b60ff16815260200191505060405180910390f35b341561014957600080fd5b61015d600160a060020a036004351661035b565b60405190815260200160405180910390f35b341561017a57600080fd5b6100b0600160a060020a036004351661036d565b6100b0600160a060020a0360043516610408565b34156101ad57600080fd5b6100b0600160a060020a036004351661048c565b60005433600160a060020a039081169116146101dc57600080fd5b60006002805460a060020a900460ff16908111156101f657fe5b1461020057600080fd5b6002805474ff00000000000000000000000000000000000000001916740200000000000000000000000000000000000000001790557f1cdde67b72a90f19919ac732a437ac2f7a10fc128d28c2a6e525d89ce5cd9d3a60405160405180910390a1600254600160a060020a039081169030163180156108fc0290604051600060405180830381858888f19350505050151561029a57600080fd5b565b600254600160a060020a031681565b60005433600160a060020a039081169116146102c657600080fd5b60006002805460a060020a900460ff16908111156102e057fe5b146102ea57600080fd5b6002805474ff0000000000000000000000000000000000000000191660a060020a1790557f599d8e5a83cffb867d051598c4d70e805d59802d8081c1c7d6dffc5b6aca2b8960405160405180910390a1565b600054600160a060020a031681565b60025460a060020a900460ff1681565b60016020526000908152604090205481565b60005433600160a060020a0390811691161461038857600080fd5b600160a060020a038116151561039d57600080fd5b600054600160a060020a0380831691167f8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e060405160405180910390a36000805473ffffffffffffffffffffffffffffffffffffffff1916600160a060020a0392909216919091179055565b60005433600160a060020a0390811691161461042357600080fd5b60006002805460a060020a900460ff169081111561043d57fe5b1461044757600080fd5b600160a060020a038116600090815260016020526040902054610470903463ffffffff61053c16565b600160a060020a03909116600090815260016020526040902055565b600060016002805460a060020a900460ff16908111156104a857fe5b146104b257600080fd5b50600160a060020a038116600081815260016020526040808220805492905590919082156108fc0290839051600060405180830381858888f1935050505015156104fb57600080fd5b81600160a060020a03167fd7dee2702d63ad89917b6a4da9981c90c4d24f8c2bdfd64c604ecae57d8d06518260405190815260200160405180910390a25050565b60008282018381101561054b57fe5b93925050505600a165627a7a723058201375e7becff11543060ef0d71674c90c50cdd22c43f61ba655a3c116d111ad5b0029",
   "deployedBytecode": "0x6060604052600436106100985763ffffffff7c010000000000000000000000000000000000000000000000000000000060003504166343d726d6811461009d578063521eb273146100b25780638c52dc41146100e15780638da5cb5b146100f4578063c19d93fb14610107578063cb13cddb1461013e578063f2fde38b1461016f578063f340fa011461018e578063fa89401a146101a2575b600080fd5b34156100a857600080fd5b6100b06101c1565b005b34156100bd57600080fd5b6100c561029c565b604051600160a060020a03909116815260200160405180910390f35b34156100ec57600080fd5b6100b06102ab565b34156100ff57600080fd5b6100c561033c565b341561011257600080fd5b61011a61034b565b6040518082600281111561012a57fe5b60ff16815260200191505060405180910390f35b341561014957600080fd5b61015d600160a060020a036004351661035b565b60405190815260200160405180910390f35b341561017a57600080fd5b6100b0600160a060020a036004351661036d565b6100b0600160a060020a0360043516610408565b34156101ad57600080fd5b6100b0600160a060020a036004351661048c565b60005433600160a060020a039081169116146101dc57600080fd5b60006002805460a060020a900460ff16908111156101f657fe5b1461020057600080fd5b6002805474ff00000000000000000000000000000000000000001916740200000000000000000000000000000000000000001790557f1cdde67b72a90f19919ac732a437ac2f7a10fc128d28c2a6e525d89ce5cd9d3a60405160405180910390a1600254600160a060020a039081169030163180156108fc0290604051600060405180830381858888f19350505050151561029a57600080fd5b565b600254600160a060020a031681565b60005433600160a060020a039081169116146102c657600080fd5b60006002805460a060020a900460ff16908111156102e057fe5b146102ea57600080fd5b6002805474ff0000000000000000000000000000000000000000191660a060020a1790557f599d8e5a83cffb867d051598c4d70e805d59802d8081c1c7d6dffc5b6aca2b8960405160405180910390a1565b600054600160a060020a031681565b60025460a060020a900460ff1681565b60016020526000908152604090205481565b60005433600160a060020a0390811691161461038857600080fd5b600160a060020a038116151561039d57600080fd5b600054600160a060020a0380831691167f8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e060405160405180910390a36000805473ffffffffffffffffffffffffffffffffffffffff1916600160a060020a0392909216919091179055565b60005433600160a060020a0390811691161461042357600080fd5b60006002805460a060020a900460ff169081111561043d57fe5b1461044757600080fd5b600160a060020a038116600090815260016020526040902054610470903463ffffffff61053c16565b600160a060020a03909116600090815260016020526040902055565b600060016002805460a060020a900460ff16908111156104a857fe5b146104b257600080fd5b50600160a060020a038116600081815260016020526040808220805492905590919082156108fc0290839051600060405180830381858888f1935050505015156104fb57600080fd5b81600160a060020a03167fd7dee2702d63ad89917b6a4da9981c90c4d24f8c2bdfd64c604ecae57d8d06518260405190815260200160405180910390a25050565b60008282018381101561054b57fe5b93925050505600a165627a7a723058201375e7becff11543060ef0d71674c90c50cdd22c43f61ba655a3c116d111ad5b0029",
-  "sourceMap": "319:1307:4:-;;;684:134;;;;;;;;;;;;;;;;;;;;;;501:5:9;:18;;-1:-1:-1;;;;;;501:18:9;509:10;-1:-1:-1;;;;;501:18:9;;;;;;;;;;684:134:4;;-1:-1:-1;743:21:4;;;;;-1:-1:-1;735:30:4;;;;;;771:6;:16;;-1:-1:-1;;;;;;771:16:4;-1:-1:-1;;;;;771:16:4;;;;;;;;-1:-1:-1;;;;;;793:20:4;;;319:1307;;;-1:-1:-1;319:1307:4;;",
-  "deployedSourceMap": "319:1307:4:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1039:150;;;;;;;;;;;;;;479:21;;;;;;;;;;;;;;;-1:-1:-1;;;;;479:21:4;;;;;;;;;;;;;;;1193:134;;;;;;;;;;;;238:20:9;;;;;;;;;;;;504:18:4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;430:45;;;;;;;;;;-1:-1:-1;;;;;430:45:4;;;;;;;;;;;;;;;;;;;;832:169:9;;;;;;;;;;-1:-1:-1;;;;;832:169:9;;;;;872:163:4;;-1:-1:-1;;;;;872:163:4;;;;;1381:243;;;;;;;;;;-1:-1:-1;;;;;1381:243:4;;;;;1039:150;653:5:9;;639:10;-1:-1:-1;;;;;639:19:9;;;653:5;;639:19;631:28;;;;;;1096:12:4;1087:5;;;-1:-1:-1;;;1087:5:4;;;;;:21;;;;;;;;1079:30;;;;;;1123:12;1115:20;;-1:-1:-1;;1115:20:4;;;;;1141:8;;;;;;;;;;1155:6;;-1:-1:-1;;;;;1155:6:4;;;;1171:4;:12;;1155:29;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1039:150::o;479:21::-;;;-1:-1:-1;;;;;479:21:4;;:::o;1193:134::-;653:5:9;;639:10;-1:-1:-1;;;;;639:19:9;;;653:5;;639:19;631:28;;;;;;1258:12:4;1249:5;;;-1:-1:-1;;;1249:5:4;;;;;:21;;;;;;;;1241:30;;;;;;1277:5;:23;;-1:-1:-1;;1277:23:4;-1:-1:-1;1277:23:4;;;1306:16;;;;;;;;;;1193:134::o;238:20:9:-;;;-1:-1:-1;;;;;238:20:9;;:::o;504:18:4:-;;;-1:-1:-1;504:18:4;;;;;:::o;430:45::-;;;;;;;;;;;;;:::o;832:169:9:-;653:5;;639:10;-1:-1:-1;;;;;639:19:9;;;653:5;;639:19;631:28;;;;;;-1:-1:-1;;;;;908:22:9;;;;900:31;;;;;;958:5;;-1:-1:-1;;;;;937:37:9;;;;958:5;937:37;;;;;;;;;;980:5;:16;;-1:-1:-1;;980:16:9;-1:-1:-1;;;;;980:16:9;;;;;;;;;;832:169::o;872:163:4:-;653:5:9;;639:10;-1:-1:-1;;;;;639:19:9;;;653:5;;639:19;631:28;;;;;;955:12:4;946:5;;;-1:-1:-1;;;946:5:4;;;;;:21;;;;;;;;938:30;;;;;;-1:-1:-1;;;;;996:19:4;;;;;;-1:-1:-1;996:19:4;;;;;;:34;;1020:9;996:23;:34::i;:::-;-1:-1:-1;;;;;974:19:4;;;;;;;;-1:-1:-1;974:19:4;;;;;:56;872:163::o;1381:243::-;1467:22;1445:15;1436:5;;;-1:-1:-1;;;1436:5:4;;;;;:24;;;;;;;;1428:33;;;;;;-1:-1:-1;;;;;;1492:19:4;;;;;;-1:-1:-1;1492:19:4;;;;;;;;1517:23;;;1492:19;;;1546:33;;;;;1492:19;;1546:33;;;;;;;;;;;;;;;;;;;;;;;;;-1:-1:-1;;;;;1585:34:4;;;1604:14;1585:34;;;;;;;;;;;;;;1381:243;;:::o;1007:129:8:-;1065:7;1092:5;;;1110:6;;;;1103:14;;;;1130:1;1007:129;-1:-1:-1;;;1007:129:8:o",
+  "sourceMap": "319:1307:6:-;;;684:134;;;;;;;;;;;;;;;;;;;;;;501:5:11;:18;;-1:-1:-1;;;;;;501:18:11;509:10;-1:-1:-1;;;;;501:18:11;;;;;;;;;;684:134:6;;-1:-1:-1;743:21:6;;;;;-1:-1:-1;735:30:6;;;;;;771:6;:16;;-1:-1:-1;;;;;;771:16:6;-1:-1:-1;;;;;771:16:6;;;;;;;;-1:-1:-1;;;;;;793:20:6;;;319:1307;;;-1:-1:-1;319:1307:6;;",
+  "deployedSourceMap": "319:1307:6:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1039:150;;;;;;;;;;;;;;479:21;;;;;;;;;;;;;;;-1:-1:-1;;;;;479:21:6;;;;;;;;;;;;;;;1193:134;;;;;;;;;;;;238:20:11;;;;;;;;;;;;504:18:6;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;430:45;;;;;;;;;;-1:-1:-1;;;;;430:45:6;;;;;;;;;;;;;;;;;;;;832:169:11;;;;;;;;;;-1:-1:-1;;;;;832:169:11;;;;;872:163:6;;-1:-1:-1;;;;;872:163:6;;;;;1381:243;;;;;;;;;;-1:-1:-1;;;;;1381:243:6;;;;;1039:150;653:5:11;;639:10;-1:-1:-1;;;;;639:19:11;;;653:5;;639:19;631:28;;;;;;1096:12:6;1087:5;;;-1:-1:-1;;;1087:5:6;;;;;:21;;;;;;;;1079:30;;;;;;1123:12;1115:20;;-1:-1:-1;;1115:20:6;;;;;1141:8;;;;;;;;;;1155:6;;-1:-1:-1;;;;;1155:6:6;;;;1171:4;:12;;1155:29;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1039:150::o;479:21::-;;;-1:-1:-1;;;;;479:21:6;;:::o;1193:134::-;653:5:11;;639:10;-1:-1:-1;;;;;639:19:11;;;653:5;;639:19;631:28;;;;;;1258:12:6;1249:5;;;-1:-1:-1;;;1249:5:6;;;;;:21;;;;;;;;1241:30;;;;;;1277:5;:23;;-1:-1:-1;;1277:23:6;-1:-1:-1;1277:23:6;;;1306:16;;;;;;;;;;1193:134::o;238:20:11:-;;;-1:-1:-1;;;;;238:20:11;;:::o;504:18:6:-;;;-1:-1:-1;504:18:6;;;;;:::o;430:45::-;;;;;;;;;;;;;:::o;832:169:11:-;653:5;;639:10;-1:-1:-1;;;;;639:19:11;;;653:5;;639:19;631:28;;;;;;-1:-1:-1;;;;;908:22:11;;;;900:31;;;;;;958:5;;-1:-1:-1;;;;;937:37:11;;;;958:5;937:37;;;;;;;;;;980:5;:16;;-1:-1:-1;;980:16:11;-1:-1:-1;;;;;980:16:11;;;;;;;;;;832:169::o;872:163:6:-;653:5:11;;639:10;-1:-1:-1;;;;;639:19:11;;;653:5;;639:19;631:28;;;;;;955:12:6;946:5;;;-1:-1:-1;;;946:5:6;;;;;:21;;;;;;;;938:30;;;;;;-1:-1:-1;;;;;996:19:6;;;;;;-1:-1:-1;996:19:6;;;;;;:34;;1020:9;996:23;:34::i;:::-;-1:-1:-1;;;;;974:19:6;;;;;;;;-1:-1:-1;974:19:6;;;;;:56;872:163::o;1381:243::-;1467:22;1445:15;1436:5;;;-1:-1:-1;;;1436:5:6;;;;;:24;;;;;;;;1428:33;;;;;;-1:-1:-1;;;;;;1492:19:6;;;;;;-1:-1:-1;1492:19:6;;;;;;;;1517:23;;;1492:19;;;1546:33;;;;;1492:19;;1546:33;;;;;;;;;;;;;;;;;;;;;;;;;-1:-1:-1;;;;;1585:34:6;;;1604:14;1585:34;;;;;;;;;;;;;;1381:243;;:::o;1007:129:10:-;1065:7;1092:5;;;1110:6;;;;1103:14;;;;1130:1;1007:129;-1:-1:-1;;;1007:129:10:o",
   "source": "pragma solidity ^0.4.18;\n\nimport \"../../../math/SafeMath.sol\";\nimport \"../../../ownership/Ownable.sol\";\n\n\n/**\n * @title RefundVault\n * @dev This contract is used for storing funds while a crowdsale\n * is in progress. Supports refunding the money if crowdsale fails,\n * and forwarding it if crowdsale is successful.\n */\ncontract RefundVault is Ownable {\n  using SafeMath for uint256;\n\n  enum State { Active, Refunding, Closed }\n\n  mapping (address => uint256) public deposited;\n  address public wallet;\n  State public state;\n\n  event Closed();\n  event RefundsEnabled();\n  event Refunded(address indexed beneficiary, uint256 weiAmount);\n\n  /**\n   * @param _wallet Vault address\n   */\n  function RefundVault(address _wallet) public {\n    require(_wallet != address(0));\n    wallet = _wallet;\n    state = State.Active;\n  }\n\n  /**\n   * @param investor Investor address\n   */\n  function deposit(address investor) onlyOwner public payable {\n    require(state == State.Active);\n    deposited[investor] = deposited[investor].add(msg.value);\n  }\n\n  function close() onlyOwner public {\n    require(state == State.Active);\n    state = State.Closed;\n    Closed();\n    wallet.transfer(this.balance);\n  }\n\n  function enableRefunds() onlyOwner public {\n    require(state == State.Active);\n    state = State.Refunding;\n    RefundsEnabled();\n  }\n\n  /**\n   * @param investor Investor address\n   */\n  function refund(address investor) public {\n    require(state == State.Refunding);\n    uint256 depositedValue = deposited[investor];\n    deposited[investor] = 0;\n    investor.transfer(depositedValue);\n    Refunded(investor, depositedValue);\n  }\n}\n",
   "sourcePath": "zeppelin-solidity/contracts/crowdsale/distribution/utils/RefundVault.sol",
   "ast": {
     "absolutePath": "zeppelin-solidity/contracts/crowdsale/distribution/utils/RefundVault.sol",
     "exportedSymbols": {
       "RefundVault": [
-        601
+        955
       ]
     },
-    "id": 602,
+    "id": 956,
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 436,
+        "id": 790,
         "literals": [
           "solidity",
           "^",
@@ -205,27 +205,27 @@
           ".18"
         ],
         "nodeType": "PragmaDirective",
-        "src": "0:24:4"
+        "src": "0:24:6"
       },
       {
         "absolutePath": "zeppelin-solidity/contracts/math/SafeMath.sol",
         "file": "../../../math/SafeMath.sol",
-        "id": 437,
+        "id": 791,
         "nodeType": "ImportDirective",
-        "scope": 602,
-        "sourceUnit": 946,
-        "src": "26:36:4",
+        "scope": 956,
+        "sourceUnit": 1300,
+        "src": "26:36:6",
         "symbolAliases": [],
         "unitAlias": ""
       },
       {
         "absolutePath": "zeppelin-solidity/contracts/ownership/Ownable.sol",
         "file": "../../../ownership/Ownable.sol",
-        "id": 438,
+        "id": 792,
         "nodeType": "ImportDirective",
-        "scope": 602,
-        "sourceUnit": 1002,
-        "src": "63:40:4",
+        "scope": 956,
+        "sourceUnit": 1356,
+        "src": "63:40:6",
         "symbolAliases": [],
         "unitAlias": ""
       },
@@ -235,56 +235,56 @@
             "arguments": [],
             "baseName": {
               "contractScope": null,
-              "id": 439,
+              "id": 793,
               "name": "Ownable",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 1001,
-              "src": "343:7:4",
+              "referencedDeclaration": 1355,
+              "src": "343:7:6",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_Ownable_$1001",
+                "typeIdentifier": "t_contract$_Ownable_$1355",
                 "typeString": "contract Ownable"
               }
             },
-            "id": 440,
+            "id": 794,
             "nodeType": "InheritanceSpecifier",
-            "src": "343:7:4"
+            "src": "343:7:6"
           }
         ],
         "contractDependencies": [
-          1001
+          1355
         ],
         "contractKind": "contract",
         "documentation": "@title RefundVault\n@dev This contract is used for storing funds while a crowdsale\nis in progress. Supports refunding the money if crowdsale fails,\nand forwarding it if crowdsale is successful.",
         "fullyImplemented": true,
-        "id": 601,
+        "id": 955,
         "linearizedBaseContracts": [
-          601,
-          1001
+          955,
+          1355
         ],
         "name": "RefundVault",
         "nodeType": "ContractDefinition",
         "nodes": [
           {
-            "id": 443,
+            "id": 797,
             "libraryName": {
               "contractScope": null,
-              "id": 441,
+              "id": 795,
               "name": "SafeMath",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 945,
-              "src": "361:8:4",
+              "referencedDeclaration": 1299,
+              "src": "361:8:6",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_SafeMath_$945",
+                "typeIdentifier": "t_contract$_SafeMath_$1299",
                 "typeString": "library SafeMath"
               }
             },
             "nodeType": "UsingForDirective",
-            "src": "355:27:4",
+            "src": "355:27:6",
             "typeName": {
-              "id": 442,
+              "id": 796,
               "name": "uint256",
               "nodeType": "ElementaryTypeName",
-              "src": "374:7:4",
+              "src": "374:7:6",
               "typeDescriptions": {
                 "typeIdentifier": "t_uint256",
                 "typeString": "uint256"
@@ -293,38 +293,38 @@
           },
           {
             "canonicalName": "RefundVault.State",
-            "id": 447,
+            "id": 801,
             "members": [
               {
-                "id": 444,
+                "id": 798,
                 "name": "Active",
                 "nodeType": "EnumValue",
-                "src": "399:6:4"
+                "src": "399:6:6"
               },
               {
-                "id": 445,
+                "id": 799,
                 "name": "Refunding",
                 "nodeType": "EnumValue",
-                "src": "407:9:4"
+                "src": "407:9:6"
               },
               {
-                "id": 446,
+                "id": 800,
                 "name": "Closed",
                 "nodeType": "EnumValue",
-                "src": "418:6:4"
+                "src": "418:6:6"
               }
             ],
             "name": "State",
             "nodeType": "EnumDefinition",
-            "src": "386:40:4"
+            "src": "386:40:6"
           },
           {
             "constant": false,
-            "id": 451,
+            "id": 805,
             "name": "deposited",
             "nodeType": "VariableDeclaration",
-            "scope": 601,
-            "src": "430:45:4",
+            "scope": 955,
+            "src": "430:45:6",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
@@ -332,28 +332,28 @@
               "typeString": "mapping(address => uint256)"
             },
             "typeName": {
-              "id": 450,
+              "id": 804,
               "keyType": {
-                "id": 448,
+                "id": 802,
                 "name": "address",
                 "nodeType": "ElementaryTypeName",
-                "src": "439:7:4",
+                "src": "439:7:6",
                 "typeDescriptions": {
                   "typeIdentifier": "t_address",
                   "typeString": "address"
                 }
               },
               "nodeType": "Mapping",
-              "src": "430:28:4",
+              "src": "430:28:6",
               "typeDescriptions": {
                 "typeIdentifier": "t_mapping$_t_address_$_t_uint256_$",
                 "typeString": "mapping(address => uint256)"
               },
               "valueType": {
-                "id": 449,
+                "id": 803,
                 "name": "uint256",
                 "nodeType": "ElementaryTypeName",
-                "src": "450:7:4",
+                "src": "450:7:6",
                 "typeDescriptions": {
                   "typeIdentifier": "t_uint256",
                   "typeString": "uint256"
@@ -365,11 +365,11 @@
           },
           {
             "constant": false,
-            "id": 453,
+            "id": 807,
             "name": "wallet",
             "nodeType": "VariableDeclaration",
-            "scope": 601,
-            "src": "479:21:4",
+            "scope": 955,
+            "src": "479:21:6",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
@@ -377,10 +377,10 @@
               "typeString": "address"
             },
             "typeName": {
-              "id": 452,
+              "id": 806,
               "name": "address",
               "nodeType": "ElementaryTypeName",
-              "src": "479:7:4",
+              "src": "479:7:6",
               "typeDescriptions": {
                 "typeIdentifier": "t_address",
                 "typeString": "address"
@@ -391,26 +391,26 @@
           },
           {
             "constant": false,
-            "id": 455,
+            "id": 809,
             "name": "state",
             "nodeType": "VariableDeclaration",
-            "scope": 601,
-            "src": "504:18:4",
+            "scope": 955,
+            "src": "504:18:6",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
-              "typeIdentifier": "t_enum$_State_$447",
+              "typeIdentifier": "t_enum$_State_$801",
               "typeString": "enum RefundVault.State"
             },
             "typeName": {
               "contractScope": null,
-              "id": 454,
+              "id": 808,
               "name": "State",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 447,
-              "src": "504:5:4",
+              "referencedDeclaration": 801,
+              "src": "504:5:6",
               "typeDescriptions": {
-                "typeIdentifier": "t_enum$_State_$447",
+                "typeIdentifier": "t_enum$_State_$801",
                 "typeString": "enum RefundVault.State"
               }
             },
@@ -419,47 +419,47 @@
           },
           {
             "anonymous": false,
-            "id": 457,
+            "id": 811,
             "name": "Closed",
             "nodeType": "EventDefinition",
             "parameters": {
-              "id": 456,
+              "id": 810,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "539:2:4"
+              "src": "539:2:6"
             },
-            "src": "527:15:4"
+            "src": "527:15:6"
           },
           {
             "anonymous": false,
-            "id": 459,
+            "id": 813,
             "name": "RefundsEnabled",
             "nodeType": "EventDefinition",
             "parameters": {
-              "id": 458,
+              "id": 812,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "565:2:4"
+              "src": "565:2:6"
             },
-            "src": "545:23:4"
+            "src": "545:23:6"
           },
           {
             "anonymous": false,
-            "id": 465,
+            "id": 819,
             "name": "Refunded",
             "nodeType": "EventDefinition",
             "parameters": {
-              "id": 464,
+              "id": 818,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 461,
+                  "id": 815,
                   "indexed": true,
                   "name": "beneficiary",
                   "nodeType": "VariableDeclaration",
-                  "scope": 465,
-                  "src": "586:27:4",
+                  "scope": 819,
+                  "src": "586:27:6",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -467,10 +467,10 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 460,
+                    "id": 814,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
-                    "src": "586:7:4",
+                    "src": "586:7:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
                       "typeString": "address"
@@ -481,12 +481,12 @@
                 },
                 {
                   "constant": false,
-                  "id": 463,
+                  "id": 817,
                   "indexed": false,
                   "name": "weiAmount",
                   "nodeType": "VariableDeclaration",
-                  "scope": 465,
-                  "src": "615:17:4",
+                  "scope": 819,
+                  "src": "615:17:6",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -494,10 +494,10 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 462,
+                    "id": 816,
                     "name": "uint256",
                     "nodeType": "ElementaryTypeName",
-                    "src": "615:7:4",
+                    "src": "615:7:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -507,15 +507,15 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "585:48:4"
+              "src": "585:48:6"
             },
-            "src": "571:63:4"
+            "src": "571:63:6"
           },
           {
             "body": {
-              "id": 487,
+              "id": 841,
               "nodeType": "Block",
-              "src": "729:89:4",
+              "src": "729:89:6",
               "statements": [
                 {
                   "expression": {
@@ -527,19 +527,19 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "id": 475,
+                        "id": 829,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
                         "lValueRequested": false,
                         "leftExpression": {
                           "argumentTypes": null,
-                          "id": 471,
+                          "id": 825,
                           "name": "_wallet",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 467,
-                          "src": "743:7:4",
+                          "referencedDeclaration": 821,
+                          "src": "743:7:6",
                           "typeDescriptions": {
                             "typeIdentifier": "t_address",
                             "typeString": "address"
@@ -553,14 +553,14 @@
                             {
                               "argumentTypes": null,
                               "hexValue": "30",
-                              "id": 473,
+                              "id": 827,
                               "isConstant": false,
                               "isLValue": false,
                               "isPure": true,
                               "kind": "number",
                               "lValueRequested": false,
                               "nodeType": "Literal",
-                              "src": "762:1:4",
+                              "src": "762:1:6",
                               "subdenomination": null,
                               "typeDescriptions": {
                                 "typeIdentifier": "t_rational_0_by_1",
@@ -576,20 +576,20 @@
                                 "typeString": "int_const 0"
                               }
                             ],
-                            "id": 472,
+                            "id": 826,
                             "isConstant": false,
                             "isLValue": false,
                             "isPure": true,
                             "lValueRequested": false,
                             "nodeType": "ElementaryTypeNameExpression",
-                            "src": "754:7:4",
+                            "src": "754:7:6",
                             "typeDescriptions": {
                               "typeIdentifier": "t_type$_t_address_$",
                               "typeString": "type(address)"
                             },
                             "typeName": "address"
                           },
-                          "id": 474,
+                          "id": 828,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -597,13 +597,13 @@
                           "lValueRequested": false,
                           "names": [],
                           "nodeType": "FunctionCall",
-                          "src": "754:10:4",
+                          "src": "754:10:6",
                           "typeDescriptions": {
                             "typeIdentifier": "t_address",
                             "typeString": "address"
                           }
                         },
-                        "src": "743:21:4",
+                        "src": "743:21:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
                           "typeString": "bool"
@@ -617,18 +617,18 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 470,
+                      "id": 824,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1528,
-                      "src": "735:7:4",
+                      "referencedDeclaration": 1882,
+                      "src": "735:7:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 476,
+                    "id": 830,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -636,32 +636,32 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "735:30:4",
+                    "src": "735:30:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 477,
+                  "id": 831,
                   "nodeType": "ExpressionStatement",
-                  "src": "735:30:4"
+                  "src": "735:30:6"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 480,
+                    "id": 834,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 478,
+                      "id": 832,
                       "name": "wallet",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 453,
-                      "src": "771:6:4",
+                      "referencedDeclaration": 807,
+                      "src": "771:6:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
                         "typeString": "address"
@@ -671,45 +671,45 @@
                     "operator": "=",
                     "rightHandSide": {
                       "argumentTypes": null,
-                      "id": 479,
+                      "id": 833,
                       "name": "_wallet",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 467,
-                      "src": "780:7:4",
+                      "referencedDeclaration": 821,
+                      "src": "780:7:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
                         "typeString": "address"
                       }
                     },
-                    "src": "771:16:4",
+                    "src": "771:16:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
                       "typeString": "address"
                     }
                   },
-                  "id": 481,
+                  "id": 835,
                   "nodeType": "ExpressionStatement",
-                  "src": "771:16:4"
+                  "src": "771:16:6"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 485,
+                    "id": 839,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 482,
+                      "id": 836,
                       "name": "state",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 455,
-                      "src": "793:5:4",
+                      "referencedDeclaration": 809,
+                      "src": "793:5:6",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_State_$447",
+                        "typeIdentifier": "t_enum$_State_$801",
                         "typeString": "enum RefundVault.State"
                       }
                     },
@@ -719,18 +719,18 @@
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 483,
+                        "id": 837,
                         "name": "State",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 447,
-                        "src": "801:5:4",
+                        "referencedDeclaration": 801,
+                        "src": "801:5:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_enum$_State_$447_$",
+                          "typeIdentifier": "t_type$_t_enum$_State_$801_$",
                           "typeString": "type(enum RefundVault.State)"
                         }
                       },
-                      "id": 484,
+                      "id": 838,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -738,25 +738,25 @@
                       "memberName": "Active",
                       "nodeType": "MemberAccess",
                       "referencedDeclaration": null,
-                      "src": "801:12:4",
+                      "src": "801:12:6",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_State_$447",
+                        "typeIdentifier": "t_enum$_State_$801",
                         "typeString": "enum RefundVault.State"
                       }
                     },
-                    "src": "793:20:4",
+                    "src": "793:20:6",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_enum$_State_$447",
+                      "typeIdentifier": "t_enum$_State_$801",
                       "typeString": "enum RefundVault.State"
                     }
                   },
-                  "id": 486,
+                  "id": 840,
                   "nodeType": "ExpressionStatement",
-                  "src": "793:20:4"
+                  "src": "793:20:6"
                 }
               ]
             },
-            "id": 488,
+            "id": 842,
             "implemented": true,
             "isConstructor": true,
             "isDeclaredConst": false,
@@ -764,16 +764,16 @@
             "name": "RefundVault",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 468,
+              "id": 822,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 467,
+                  "id": 821,
                   "name": "_wallet",
                   "nodeType": "VariableDeclaration",
-                  "scope": 488,
-                  "src": "705:15:4",
+                  "scope": 842,
+                  "src": "705:15:6",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -781,10 +781,10 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 466,
+                    "id": 820,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
-                    "src": "705:7:4",
+                    "src": "705:7:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
                       "typeString": "address"
@@ -794,26 +794,26 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "704:17:4"
+              "src": "704:17:6"
             },
             "payable": false,
             "returnParameters": {
-              "id": 469,
+              "id": 823,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "729:0:4"
+              "src": "729:0:6"
             },
-            "scope": 601,
-            "src": "684:134:4",
+            "scope": 955,
+            "src": "684:134:6",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 514,
+              "id": 868,
               "nodeType": "Block",
-              "src": "932:103:4",
+              "src": "932:103:6",
               "statements": [
                 {
                   "expression": {
@@ -822,24 +822,24 @@
                       {
                         "argumentTypes": null,
                         "commonType": {
-                          "typeIdentifier": "t_enum$_State_$447",
+                          "typeIdentifier": "t_enum$_State_$801",
                           "typeString": "enum RefundVault.State"
                         },
-                        "id": 499,
+                        "id": 853,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
                         "lValueRequested": false,
                         "leftExpression": {
                           "argumentTypes": null,
-                          "id": 496,
+                          "id": 850,
                           "name": "state",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 455,
-                          "src": "946:5:4",
+                          "referencedDeclaration": 809,
+                          "src": "946:5:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_State_$447",
+                            "typeIdentifier": "t_enum$_State_$801",
                             "typeString": "enum RefundVault.State"
                           }
                         },
@@ -849,18 +849,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 497,
+                            "id": 851,
                             "name": "State",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 447,
-                            "src": "955:5:4",
+                            "referencedDeclaration": 801,
+                            "src": "955:5:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_type$_t_enum$_State_$447_$",
+                              "typeIdentifier": "t_type$_t_enum$_State_$801_$",
                               "typeString": "type(enum RefundVault.State)"
                             }
                           },
-                          "id": 498,
+                          "id": 852,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -868,13 +868,13 @@
                           "memberName": "Active",
                           "nodeType": "MemberAccess",
                           "referencedDeclaration": null,
-                          "src": "955:12:4",
+                          "src": "955:12:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_State_$447",
+                            "typeIdentifier": "t_enum$_State_$801",
                             "typeString": "enum RefundVault.State"
                           }
                         },
-                        "src": "946:21:4",
+                        "src": "946:21:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
                           "typeString": "bool"
@@ -888,18 +888,18 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 495,
+                      "id": 849,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1528,
-                      "src": "938:7:4",
+                      "referencedDeclaration": 1882,
+                      "src": "938:7:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 500,
+                    "id": 854,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -907,20 +907,20 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "938:30:4",
+                    "src": "938:30:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 501,
+                  "id": 855,
                   "nodeType": "ExpressionStatement",
-                  "src": "938:30:4"
+                  "src": "938:30:6"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 512,
+                    "id": 866,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -929,26 +929,26 @@
                       "argumentTypes": null,
                       "baseExpression": {
                         "argumentTypes": null,
-                        "id": 502,
+                        "id": 856,
                         "name": "deposited",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 451,
-                        "src": "974:9:4",
+                        "referencedDeclaration": 805,
+                        "src": "974:9:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_mapping$_t_address_$_t_uint256_$",
                           "typeString": "mapping(address => uint256)"
                         }
                       },
-                      "id": 504,
+                      "id": 858,
                       "indexExpression": {
                         "argumentTypes": null,
-                        "id": 503,
+                        "id": 857,
                         "name": "investor",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 490,
-                        "src": "984:8:4",
+                        "referencedDeclaration": 844,
+                        "src": "984:8:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
                           "typeString": "address"
@@ -959,7 +959,7 @@
                       "isPure": false,
                       "lValueRequested": true,
                       "nodeType": "IndexAccess",
-                      "src": "974:19:4",
+                      "src": "974:19:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
                         "typeString": "uint256"
@@ -974,18 +974,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 509,
+                            "id": 863,
                             "name": "msg",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 1525,
-                            "src": "1020:3:4",
+                            "referencedDeclaration": 1879,
+                            "src": "1020:3:6",
                             "typeDescriptions": {
                               "typeIdentifier": "t_magic_message",
                               "typeString": "msg"
                             }
                           },
-                          "id": 510,
+                          "id": 864,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -993,7 +993,7 @@
                           "memberName": "value",
                           "nodeType": "MemberAccess",
                           "referencedDeclaration": null,
-                          "src": "1020:9:4",
+                          "src": "1020:9:6",
                           "typeDescriptions": {
                             "typeIdentifier": "t_uint256",
                             "typeString": "uint256"
@@ -1011,26 +1011,26 @@
                           "argumentTypes": null,
                           "baseExpression": {
                             "argumentTypes": null,
-                            "id": 505,
+                            "id": 859,
                             "name": "deposited",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 451,
-                            "src": "996:9:4",
+                            "referencedDeclaration": 805,
+                            "src": "996:9:6",
                             "typeDescriptions": {
                               "typeIdentifier": "t_mapping$_t_address_$_t_uint256_$",
                               "typeString": "mapping(address => uint256)"
                             }
                           },
-                          "id": 507,
+                          "id": 861,
                           "indexExpression": {
                             "argumentTypes": null,
-                            "id": 506,
+                            "id": 860,
                             "name": "investor",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 490,
-                            "src": "1006:8:4",
+                            "referencedDeclaration": 844,
+                            "src": "1006:8:6",
                             "typeDescriptions": {
                               "typeIdentifier": "t_address",
                               "typeString": "address"
@@ -1041,27 +1041,27 @@
                           "isPure": false,
                           "lValueRequested": false,
                           "nodeType": "IndexAccess",
-                          "src": "996:19:4",
+                          "src": "996:19:6",
                           "typeDescriptions": {
                             "typeIdentifier": "t_uint256",
                             "typeString": "uint256"
                           }
                         },
-                        "id": 508,
+                        "id": 862,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
                         "lValueRequested": false,
                         "memberName": "add",
                         "nodeType": "MemberAccess",
-                        "referencedDeclaration": 944,
-                        "src": "996:23:4",
+                        "referencedDeclaration": 1298,
+                        "src": "996:23:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_internal_pure$_t_uint256_$_t_uint256_$returns$_t_uint256_$bound_to$_t_uint256_$",
                           "typeString": "function (uint256,uint256) pure returns (uint256)"
                         }
                       },
-                      "id": 511,
+                      "id": 865,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -1069,62 +1069,62 @@
                       "lValueRequested": false,
                       "names": [],
                       "nodeType": "FunctionCall",
-                      "src": "996:34:4",
+                      "src": "996:34:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
                         "typeString": "uint256"
                       }
                     },
-                    "src": "974:56:4",
+                    "src": "974:56:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
                     }
                   },
-                  "id": 513,
+                  "id": 867,
                   "nodeType": "ExpressionStatement",
-                  "src": "974:56:4"
+                  "src": "974:56:6"
                 }
               ]
             },
-            "id": 515,
+            "id": 869,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
             "modifiers": [
               {
                 "arguments": [],
-                "id": 493,
+                "id": 847,
                 "modifierName": {
                   "argumentTypes": null,
-                  "id": 492,
+                  "id": 846,
                   "name": "onlyOwner",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 975,
-                  "src": "907:9:4",
+                  "referencedDeclaration": 1329,
+                  "src": "907:9:6",
                   "typeDescriptions": {
                     "typeIdentifier": "t_modifier$__$",
                     "typeString": "modifier ()"
                   }
                 },
                 "nodeType": "ModifierInvocation",
-                "src": "907:9:4"
+                "src": "907:9:6"
               }
             ],
             "name": "deposit",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 491,
+              "id": 845,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 490,
+                  "id": 844,
                   "name": "investor",
                   "nodeType": "VariableDeclaration",
-                  "scope": 515,
-                  "src": "889:16:4",
+                  "scope": 869,
+                  "src": "889:16:6",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -1132,10 +1132,10 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 489,
+                    "id": 843,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
-                    "src": "889:7:4",
+                    "src": "889:7:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
                       "typeString": "address"
@@ -1145,26 +1145,26 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "888:18:4"
+              "src": "888:18:6"
             },
             "payable": true,
             "returnParameters": {
-              "id": 494,
+              "id": 848,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "932:0:4"
+              "src": "932:0:6"
             },
-            "scope": 601,
-            "src": "872:163:4",
+            "scope": 955,
+            "src": "872:163:6",
             "stateMutability": "payable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 542,
+              "id": 896,
               "nodeType": "Block",
-              "src": "1073:116:4",
+              "src": "1073:116:6",
               "statements": [
                 {
                   "expression": {
@@ -1173,24 +1173,24 @@
                       {
                         "argumentTypes": null,
                         "commonType": {
-                          "typeIdentifier": "t_enum$_State_$447",
+                          "typeIdentifier": "t_enum$_State_$801",
                           "typeString": "enum RefundVault.State"
                         },
-                        "id": 524,
+                        "id": 878,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
                         "lValueRequested": false,
                         "leftExpression": {
                           "argumentTypes": null,
-                          "id": 521,
+                          "id": 875,
                           "name": "state",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 455,
-                          "src": "1087:5:4",
+                          "referencedDeclaration": 809,
+                          "src": "1087:5:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_State_$447",
+                            "typeIdentifier": "t_enum$_State_$801",
                             "typeString": "enum RefundVault.State"
                           }
                         },
@@ -1200,18 +1200,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 522,
+                            "id": 876,
                             "name": "State",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 447,
-                            "src": "1096:5:4",
+                            "referencedDeclaration": 801,
+                            "src": "1096:5:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_type$_t_enum$_State_$447_$",
+                              "typeIdentifier": "t_type$_t_enum$_State_$801_$",
                               "typeString": "type(enum RefundVault.State)"
                             }
                           },
-                          "id": 523,
+                          "id": 877,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -1219,13 +1219,13 @@
                           "memberName": "Active",
                           "nodeType": "MemberAccess",
                           "referencedDeclaration": null,
-                          "src": "1096:12:4",
+                          "src": "1096:12:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_State_$447",
+                            "typeIdentifier": "t_enum$_State_$801",
                             "typeString": "enum RefundVault.State"
                           }
                         },
-                        "src": "1087:21:4",
+                        "src": "1087:21:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
                           "typeString": "bool"
@@ -1239,18 +1239,18 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 520,
+                      "id": 874,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1528,
-                      "src": "1079:7:4",
+                      "referencedDeclaration": 1882,
+                      "src": "1079:7:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 525,
+                    "id": 879,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1258,34 +1258,34 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1079:30:4",
+                    "src": "1079:30:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 526,
+                  "id": 880,
                   "nodeType": "ExpressionStatement",
-                  "src": "1079:30:4"
+                  "src": "1079:30:6"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 530,
+                    "id": 884,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 527,
+                      "id": 881,
                       "name": "state",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 455,
-                      "src": "1115:5:4",
+                      "referencedDeclaration": 809,
+                      "src": "1115:5:6",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_State_$447",
+                        "typeIdentifier": "t_enum$_State_$801",
                         "typeString": "enum RefundVault.State"
                       }
                     },
@@ -1295,18 +1295,18 @@
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 528,
+                        "id": 882,
                         "name": "State",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 447,
-                        "src": "1123:5:4",
+                        "referencedDeclaration": 801,
+                        "src": "1123:5:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_enum$_State_$447_$",
+                          "typeIdentifier": "t_type$_t_enum$_State_$801_$",
                           "typeString": "type(enum RefundVault.State)"
                         }
                       },
-                      "id": 529,
+                      "id": 883,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -1314,21 +1314,21 @@
                       "memberName": "Closed",
                       "nodeType": "MemberAccess",
                       "referencedDeclaration": null,
-                      "src": "1123:12:4",
+                      "src": "1123:12:6",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_State_$447",
+                        "typeIdentifier": "t_enum$_State_$801",
                         "typeString": "enum RefundVault.State"
                       }
                     },
-                    "src": "1115:20:4",
+                    "src": "1115:20:6",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_enum$_State_$447",
+                      "typeIdentifier": "t_enum$_State_$801",
                       "typeString": "enum RefundVault.State"
                     }
                   },
-                  "id": 531,
+                  "id": 885,
                   "nodeType": "ExpressionStatement",
-                  "src": "1115:20:4"
+                  "src": "1115:20:6"
                 },
                 {
                   "expression": {
@@ -1336,18 +1336,18 @@
                     "arguments": [],
                     "expression": {
                       "argumentTypes": [],
-                      "id": 532,
+                      "id": 886,
                       "name": "Closed",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 457,
-                      "src": "1141:6:4",
+                      "referencedDeclaration": 811,
+                      "src": "1141:6:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$__$returns$__$",
                         "typeString": "function ()"
                       }
                     },
-                    "id": 533,
+                    "id": 887,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1355,15 +1355,15 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1141:8:4",
+                    "src": "1141:8:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 534,
+                  "id": 888,
                   "nodeType": "ExpressionStatement",
-                  "src": "1141:8:4"
+                  "src": "1141:8:6"
                 },
                 {
                   "expression": {
@@ -1373,18 +1373,18 @@
                         "argumentTypes": null,
                         "expression": {
                           "argumentTypes": null,
-                          "id": 538,
+                          "id": 892,
                           "name": "this",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 1554,
-                          "src": "1171:4:4",
+                          "referencedDeclaration": 1910,
+                          "src": "1171:4:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_contract$_RefundVault_$601",
+                            "typeIdentifier": "t_contract$_RefundVault_$955",
                             "typeString": "contract RefundVault"
                           }
                         },
-                        "id": 539,
+                        "id": 893,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -1392,7 +1392,7 @@
                         "memberName": "balance",
                         "nodeType": "MemberAccess",
                         "referencedDeclaration": null,
-                        "src": "1171:12:4",
+                        "src": "1171:12:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_uint256",
                           "typeString": "uint256"
@@ -1408,18 +1408,18 @@
                       ],
                       "expression": {
                         "argumentTypes": null,
-                        "id": 535,
+                        "id": 889,
                         "name": "wallet",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 453,
-                        "src": "1155:6:4",
+                        "referencedDeclaration": 807,
+                        "src": "1155:6:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         }
                       },
-                      "id": 537,
+                      "id": 891,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -1427,13 +1427,13 @@
                       "memberName": "transfer",
                       "nodeType": "MemberAccess",
                       "referencedDeclaration": null,
-                      "src": "1155:15:4",
+                      "src": "1155:15:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_transfer_nonpayable$_t_uint256_$returns$__$",
                         "typeString": "function (uint256)"
                       }
                     },
-                    "id": 540,
+                    "id": 894,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1441,69 +1441,69 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1155:29:4",
+                    "src": "1155:29:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 541,
+                  "id": 895,
                   "nodeType": "ExpressionStatement",
-                  "src": "1155:29:4"
+                  "src": "1155:29:6"
                 }
               ]
             },
-            "id": 543,
+            "id": 897,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
             "modifiers": [
               {
                 "arguments": [],
-                "id": 518,
+                "id": 872,
                 "modifierName": {
                   "argumentTypes": null,
-                  "id": 517,
+                  "id": 871,
                   "name": "onlyOwner",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 975,
-                  "src": "1056:9:4",
+                  "referencedDeclaration": 1329,
+                  "src": "1056:9:6",
                   "typeDescriptions": {
                     "typeIdentifier": "t_modifier$__$",
                     "typeString": "modifier ()"
                   }
                 },
                 "nodeType": "ModifierInvocation",
-                "src": "1056:9:4"
+                "src": "1056:9:6"
               }
             ],
             "name": "close",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 516,
+              "id": 870,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "1053:2:4"
+              "src": "1053:2:6"
             },
             "payable": false,
             "returnParameters": {
-              "id": 519,
+              "id": 873,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "1073:0:4"
+              "src": "1073:0:6"
             },
-            "scope": 601,
-            "src": "1039:150:4",
+            "scope": 955,
+            "src": "1039:150:6",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 563,
+              "id": 917,
               "nodeType": "Block",
-              "src": "1235:92:4",
+              "src": "1235:92:6",
               "statements": [
                 {
                   "expression": {
@@ -1512,24 +1512,24 @@
                       {
                         "argumentTypes": null,
                         "commonType": {
-                          "typeIdentifier": "t_enum$_State_$447",
+                          "typeIdentifier": "t_enum$_State_$801",
                           "typeString": "enum RefundVault.State"
                         },
-                        "id": 552,
+                        "id": 906,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
                         "lValueRequested": false,
                         "leftExpression": {
                           "argumentTypes": null,
-                          "id": 549,
+                          "id": 903,
                           "name": "state",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 455,
-                          "src": "1249:5:4",
+                          "referencedDeclaration": 809,
+                          "src": "1249:5:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_State_$447",
+                            "typeIdentifier": "t_enum$_State_$801",
                             "typeString": "enum RefundVault.State"
                           }
                         },
@@ -1539,18 +1539,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 550,
+                            "id": 904,
                             "name": "State",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 447,
-                            "src": "1258:5:4",
+                            "referencedDeclaration": 801,
+                            "src": "1258:5:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_type$_t_enum$_State_$447_$",
+                              "typeIdentifier": "t_type$_t_enum$_State_$801_$",
                               "typeString": "type(enum RefundVault.State)"
                             }
                           },
-                          "id": 551,
+                          "id": 905,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -1558,13 +1558,13 @@
                           "memberName": "Active",
                           "nodeType": "MemberAccess",
                           "referencedDeclaration": null,
-                          "src": "1258:12:4",
+                          "src": "1258:12:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_State_$447",
+                            "typeIdentifier": "t_enum$_State_$801",
                             "typeString": "enum RefundVault.State"
                           }
                         },
-                        "src": "1249:21:4",
+                        "src": "1249:21:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
                           "typeString": "bool"
@@ -1578,18 +1578,18 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 548,
+                      "id": 902,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1528,
-                      "src": "1241:7:4",
+                      "referencedDeclaration": 1882,
+                      "src": "1241:7:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 553,
+                    "id": 907,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1597,34 +1597,34 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1241:30:4",
+                    "src": "1241:30:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 554,
+                  "id": 908,
                   "nodeType": "ExpressionStatement",
-                  "src": "1241:30:4"
+                  "src": "1241:30:6"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 558,
+                    "id": 912,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 555,
+                      "id": 909,
                       "name": "state",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 455,
-                      "src": "1277:5:4",
+                      "referencedDeclaration": 809,
+                      "src": "1277:5:6",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_State_$447",
+                        "typeIdentifier": "t_enum$_State_$801",
                         "typeString": "enum RefundVault.State"
                       }
                     },
@@ -1634,18 +1634,18 @@
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 556,
+                        "id": 910,
                         "name": "State",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 447,
-                        "src": "1285:5:4",
+                        "referencedDeclaration": 801,
+                        "src": "1285:5:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_enum$_State_$447_$",
+                          "typeIdentifier": "t_type$_t_enum$_State_$801_$",
                           "typeString": "type(enum RefundVault.State)"
                         }
                       },
-                      "id": 557,
+                      "id": 911,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -1653,21 +1653,21 @@
                       "memberName": "Refunding",
                       "nodeType": "MemberAccess",
                       "referencedDeclaration": null,
-                      "src": "1285:15:4",
+                      "src": "1285:15:6",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_State_$447",
+                        "typeIdentifier": "t_enum$_State_$801",
                         "typeString": "enum RefundVault.State"
                       }
                     },
-                    "src": "1277:23:4",
+                    "src": "1277:23:6",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_enum$_State_$447",
+                      "typeIdentifier": "t_enum$_State_$801",
                       "typeString": "enum RefundVault.State"
                     }
                   },
-                  "id": 559,
+                  "id": 913,
                   "nodeType": "ExpressionStatement",
-                  "src": "1277:23:4"
+                  "src": "1277:23:6"
                 },
                 {
                   "expression": {
@@ -1675,18 +1675,18 @@
                     "arguments": [],
                     "expression": {
                       "argumentTypes": [],
-                      "id": 560,
+                      "id": 914,
                       "name": "RefundsEnabled",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 459,
-                      "src": "1306:14:4",
+                      "referencedDeclaration": 813,
+                      "src": "1306:14:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$__$returns$__$",
                         "typeString": "function ()"
                       }
                     },
-                    "id": 561,
+                    "id": 915,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1694,69 +1694,69 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1306:16:4",
+                    "src": "1306:16:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 562,
+                  "id": 916,
                   "nodeType": "ExpressionStatement",
-                  "src": "1306:16:4"
+                  "src": "1306:16:6"
                 }
               ]
             },
-            "id": 564,
+            "id": 918,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
             "modifiers": [
               {
                 "arguments": [],
-                "id": 546,
+                "id": 900,
                 "modifierName": {
                   "argumentTypes": null,
-                  "id": 545,
+                  "id": 899,
                   "name": "onlyOwner",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 975,
-                  "src": "1218:9:4",
+                  "referencedDeclaration": 1329,
+                  "src": "1218:9:6",
                   "typeDescriptions": {
                     "typeIdentifier": "t_modifier$__$",
                     "typeString": "modifier ()"
                   }
                 },
                 "nodeType": "ModifierInvocation",
-                "src": "1218:9:4"
+                "src": "1218:9:6"
               }
             ],
             "name": "enableRefunds",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 544,
+              "id": 898,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "1215:2:4"
+              "src": "1215:2:6"
             },
             "payable": false,
             "returnParameters": {
-              "id": 547,
+              "id": 901,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "1235:0:4"
+              "src": "1235:0:6"
             },
-            "scope": 601,
-            "src": "1193:134:4",
+            "scope": 955,
+            "src": "1193:134:6",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 599,
+              "id": 953,
               "nodeType": "Block",
-              "src": "1422:202:4",
+              "src": "1422:202:6",
               "statements": [
                 {
                   "expression": {
@@ -1765,24 +1765,24 @@
                       {
                         "argumentTypes": null,
                         "commonType": {
-                          "typeIdentifier": "t_enum$_State_$447",
+                          "typeIdentifier": "t_enum$_State_$801",
                           "typeString": "enum RefundVault.State"
                         },
-                        "id": 573,
+                        "id": 927,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
                         "lValueRequested": false,
                         "leftExpression": {
                           "argumentTypes": null,
-                          "id": 570,
+                          "id": 924,
                           "name": "state",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 455,
-                          "src": "1436:5:4",
+                          "referencedDeclaration": 809,
+                          "src": "1436:5:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_State_$447",
+                            "typeIdentifier": "t_enum$_State_$801",
                             "typeString": "enum RefundVault.State"
                           }
                         },
@@ -1792,18 +1792,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 571,
+                            "id": 925,
                             "name": "State",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 447,
-                            "src": "1445:5:4",
+                            "referencedDeclaration": 801,
+                            "src": "1445:5:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_type$_t_enum$_State_$447_$",
+                              "typeIdentifier": "t_type$_t_enum$_State_$801_$",
                               "typeString": "type(enum RefundVault.State)"
                             }
                           },
-                          "id": 572,
+                          "id": 926,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -1811,13 +1811,13 @@
                           "memberName": "Refunding",
                           "nodeType": "MemberAccess",
                           "referencedDeclaration": null,
-                          "src": "1445:15:4",
+                          "src": "1445:15:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_State_$447",
+                            "typeIdentifier": "t_enum$_State_$801",
                             "typeString": "enum RefundVault.State"
                           }
                         },
-                        "src": "1436:24:4",
+                        "src": "1436:24:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
                           "typeString": "bool"
@@ -1831,18 +1831,18 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 569,
+                      "id": 923,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1528,
-                      "src": "1428:7:4",
+                      "referencedDeclaration": 1882,
+                      "src": "1428:7:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 574,
+                    "id": 928,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1850,28 +1850,28 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1428:33:4",
+                    "src": "1428:33:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 575,
+                  "id": 929,
                   "nodeType": "ExpressionStatement",
-                  "src": "1428:33:4"
+                  "src": "1428:33:6"
                 },
                 {
                   "assignments": [
-                    577
+                    931
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 577,
+                      "id": 931,
                       "name": "depositedValue",
                       "nodeType": "VariableDeclaration",
-                      "scope": 600,
-                      "src": "1467:22:4",
+                      "scope": 954,
+                      "src": "1467:22:6",
                       "stateVariable": false,
                       "storageLocation": "default",
                       "typeDescriptions": {
@@ -1879,10 +1879,10 @@
                         "typeString": "uint256"
                       },
                       "typeName": {
-                        "id": 576,
+                        "id": 930,
                         "name": "uint256",
                         "nodeType": "ElementaryTypeName",
-                        "src": "1467:7:4",
+                        "src": "1467:7:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_uint256",
                           "typeString": "uint256"
@@ -1892,31 +1892,31 @@
                       "visibility": "internal"
                     }
                   ],
-                  "id": 581,
+                  "id": 935,
                   "initialValue": {
                     "argumentTypes": null,
                     "baseExpression": {
                       "argumentTypes": null,
-                      "id": 578,
+                      "id": 932,
                       "name": "deposited",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 451,
-                      "src": "1492:9:4",
+                      "referencedDeclaration": 805,
+                      "src": "1492:9:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_mapping$_t_address_$_t_uint256_$",
                         "typeString": "mapping(address => uint256)"
                       }
                     },
-                    "id": 580,
+                    "id": 934,
                     "indexExpression": {
                       "argumentTypes": null,
-                      "id": 579,
+                      "id": 933,
                       "name": "investor",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 566,
-                      "src": "1502:8:4",
+                      "referencedDeclaration": 920,
+                      "src": "1502:8:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
                         "typeString": "address"
@@ -1927,19 +1927,19 @@
                     "isPure": false,
                     "lValueRequested": false,
                     "nodeType": "IndexAccess",
-                    "src": "1492:19:4",
+                    "src": "1492:19:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
                     }
                   },
                   "nodeType": "VariableDeclarationStatement",
-                  "src": "1467:44:4"
+                  "src": "1467:44:6"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 586,
+                    "id": 940,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1948,26 +1948,26 @@
                       "argumentTypes": null,
                       "baseExpression": {
                         "argumentTypes": null,
-                        "id": 582,
+                        "id": 936,
                         "name": "deposited",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 451,
-                        "src": "1517:9:4",
+                        "referencedDeclaration": 805,
+                        "src": "1517:9:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_mapping$_t_address_$_t_uint256_$",
                           "typeString": "mapping(address => uint256)"
                         }
                       },
-                      "id": 584,
+                      "id": 938,
                       "indexExpression": {
                         "argumentTypes": null,
-                        "id": 583,
+                        "id": 937,
                         "name": "investor",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 566,
-                        "src": "1527:8:4",
+                        "referencedDeclaration": 920,
+                        "src": "1527:8:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
                           "typeString": "address"
@@ -1978,7 +1978,7 @@
                       "isPure": false,
                       "lValueRequested": true,
                       "nodeType": "IndexAccess",
-                      "src": "1517:19:4",
+                      "src": "1517:19:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
                         "typeString": "uint256"
@@ -1989,14 +1989,14 @@
                     "rightHandSide": {
                       "argumentTypes": null,
                       "hexValue": "30",
-                      "id": 585,
+                      "id": 939,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
                       "kind": "number",
                       "lValueRequested": false,
                       "nodeType": "Literal",
-                      "src": "1539:1:4",
+                      "src": "1539:1:6",
                       "subdenomination": null,
                       "typeDescriptions": {
                         "typeIdentifier": "t_rational_0_by_1",
@@ -2004,15 +2004,15 @@
                       },
                       "value": "0"
                     },
-                    "src": "1517:23:4",
+                    "src": "1517:23:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
                     }
                   },
-                  "id": 587,
+                  "id": 941,
                   "nodeType": "ExpressionStatement",
-                  "src": "1517:23:4"
+                  "src": "1517:23:6"
                 },
                 {
                   "expression": {
@@ -2020,12 +2020,12 @@
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 591,
+                        "id": 945,
                         "name": "depositedValue",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 577,
-                        "src": "1564:14:4",
+                        "referencedDeclaration": 931,
+                        "src": "1564:14:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_uint256",
                           "typeString": "uint256"
@@ -2041,18 +2041,18 @@
                       ],
                       "expression": {
                         "argumentTypes": null,
-                        "id": 588,
+                        "id": 942,
                         "name": "investor",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 566,
-                        "src": "1546:8:4",
+                        "referencedDeclaration": 920,
+                        "src": "1546:8:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         }
                       },
-                      "id": 590,
+                      "id": 944,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -2060,13 +2060,13 @@
                       "memberName": "transfer",
                       "nodeType": "MemberAccess",
                       "referencedDeclaration": null,
-                      "src": "1546:17:4",
+                      "src": "1546:17:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_transfer_nonpayable$_t_uint256_$returns$__$",
                         "typeString": "function (uint256)"
                       }
                     },
-                    "id": 592,
+                    "id": 946,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -2074,15 +2074,15 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1546:33:4",
+                    "src": "1546:33:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 593,
+                  "id": 947,
                   "nodeType": "ExpressionStatement",
-                  "src": "1546:33:4"
+                  "src": "1546:33:6"
                 },
                 {
                   "expression": {
@@ -2090,12 +2090,12 @@
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 595,
+                        "id": 949,
                         "name": "investor",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 566,
-                        "src": "1594:8:4",
+                        "referencedDeclaration": 920,
+                        "src": "1594:8:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
                           "typeString": "address"
@@ -2103,12 +2103,12 @@
                       },
                       {
                         "argumentTypes": null,
-                        "id": 596,
+                        "id": 950,
                         "name": "depositedValue",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 577,
-                        "src": "1604:14:4",
+                        "referencedDeclaration": 931,
+                        "src": "1604:14:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_uint256",
                           "typeString": "uint256"
@@ -2126,18 +2126,18 @@
                           "typeString": "uint256"
                         }
                       ],
-                      "id": 594,
+                      "id": 948,
                       "name": "Refunded",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 465,
-                      "src": "1585:8:4",
+                      "referencedDeclaration": 819,
+                      "src": "1585:8:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$_t_address_$_t_uint256_$returns$__$",
                         "typeString": "function (address,uint256)"
                       }
                     },
-                    "id": 597,
+                    "id": 951,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -2145,19 +2145,19 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1585:34:4",
+                    "src": "1585:34:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 598,
+                  "id": 952,
                   "nodeType": "ExpressionStatement",
-                  "src": "1585:34:4"
+                  "src": "1585:34:6"
                 }
               ]
             },
-            "id": 600,
+            "id": 954,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
@@ -2165,16 +2165,16 @@
             "name": "refund",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 567,
+              "id": 921,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 566,
+                  "id": 920,
                   "name": "investor",
                   "nodeType": "VariableDeclaration",
-                  "scope": 600,
-                  "src": "1397:16:4",
+                  "scope": 954,
+                  "src": "1397:16:6",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -2182,10 +2182,10 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 565,
+                    "id": 919,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
-                    "src": "1397:7:4",
+                    "src": "1397:7:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
                       "typeString": "address"
@@ -2195,40 +2195,40 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "1396:18:4"
+              "src": "1396:18:6"
             },
             "payable": false,
             "returnParameters": {
-              "id": 568,
+              "id": 922,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "1422:0:4"
+              "src": "1422:0:6"
             },
-            "scope": 601,
-            "src": "1381:243:4",
+            "scope": 955,
+            "src": "1381:243:6",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           }
         ],
-        "scope": 602,
-        "src": "319:1307:4"
+        "scope": 956,
+        "src": "319:1307:6"
       }
     ],
-    "src": "0:1627:4"
+    "src": "0:1627:6"
   },
   "legacyAST": {
     "absolutePath": "zeppelin-solidity/contracts/crowdsale/distribution/utils/RefundVault.sol",
     "exportedSymbols": {
       "RefundVault": [
-        601
+        955
       ]
     },
-    "id": 602,
+    "id": 956,
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 436,
+        "id": 790,
         "literals": [
           "solidity",
           "^",
@@ -2236,27 +2236,27 @@
           ".18"
         ],
         "nodeType": "PragmaDirective",
-        "src": "0:24:4"
+        "src": "0:24:6"
       },
       {
         "absolutePath": "zeppelin-solidity/contracts/math/SafeMath.sol",
         "file": "../../../math/SafeMath.sol",
-        "id": 437,
+        "id": 791,
         "nodeType": "ImportDirective",
-        "scope": 602,
-        "sourceUnit": 946,
-        "src": "26:36:4",
+        "scope": 956,
+        "sourceUnit": 1300,
+        "src": "26:36:6",
         "symbolAliases": [],
         "unitAlias": ""
       },
       {
         "absolutePath": "zeppelin-solidity/contracts/ownership/Ownable.sol",
         "file": "../../../ownership/Ownable.sol",
-        "id": 438,
+        "id": 792,
         "nodeType": "ImportDirective",
-        "scope": 602,
-        "sourceUnit": 1002,
-        "src": "63:40:4",
+        "scope": 956,
+        "sourceUnit": 1356,
+        "src": "63:40:6",
         "symbolAliases": [],
         "unitAlias": ""
       },
@@ -2266,56 +2266,56 @@
             "arguments": [],
             "baseName": {
               "contractScope": null,
-              "id": 439,
+              "id": 793,
               "name": "Ownable",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 1001,
-              "src": "343:7:4",
+              "referencedDeclaration": 1355,
+              "src": "343:7:6",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_Ownable_$1001",
+                "typeIdentifier": "t_contract$_Ownable_$1355",
                 "typeString": "contract Ownable"
               }
             },
-            "id": 440,
+            "id": 794,
             "nodeType": "InheritanceSpecifier",
-            "src": "343:7:4"
+            "src": "343:7:6"
           }
         ],
         "contractDependencies": [
-          1001
+          1355
         ],
         "contractKind": "contract",
         "documentation": "@title RefundVault\n@dev This contract is used for storing funds while a crowdsale\nis in progress. Supports refunding the money if crowdsale fails,\nand forwarding it if crowdsale is successful.",
         "fullyImplemented": true,
-        "id": 601,
+        "id": 955,
         "linearizedBaseContracts": [
-          601,
-          1001
+          955,
+          1355
         ],
         "name": "RefundVault",
         "nodeType": "ContractDefinition",
         "nodes": [
           {
-            "id": 443,
+            "id": 797,
             "libraryName": {
               "contractScope": null,
-              "id": 441,
+              "id": 795,
               "name": "SafeMath",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 945,
-              "src": "361:8:4",
+              "referencedDeclaration": 1299,
+              "src": "361:8:6",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_SafeMath_$945",
+                "typeIdentifier": "t_contract$_SafeMath_$1299",
                 "typeString": "library SafeMath"
               }
             },
             "nodeType": "UsingForDirective",
-            "src": "355:27:4",
+            "src": "355:27:6",
             "typeName": {
-              "id": 442,
+              "id": 796,
               "name": "uint256",
               "nodeType": "ElementaryTypeName",
-              "src": "374:7:4",
+              "src": "374:7:6",
               "typeDescriptions": {
                 "typeIdentifier": "t_uint256",
                 "typeString": "uint256"
@@ -2324,38 +2324,38 @@
           },
           {
             "canonicalName": "RefundVault.State",
-            "id": 447,
+            "id": 801,
             "members": [
               {
-                "id": 444,
+                "id": 798,
                 "name": "Active",
                 "nodeType": "EnumValue",
-                "src": "399:6:4"
+                "src": "399:6:6"
               },
               {
-                "id": 445,
+                "id": 799,
                 "name": "Refunding",
                 "nodeType": "EnumValue",
-                "src": "407:9:4"
+                "src": "407:9:6"
               },
               {
-                "id": 446,
+                "id": 800,
                 "name": "Closed",
                 "nodeType": "EnumValue",
-                "src": "418:6:4"
+                "src": "418:6:6"
               }
             ],
             "name": "State",
             "nodeType": "EnumDefinition",
-            "src": "386:40:4"
+            "src": "386:40:6"
           },
           {
             "constant": false,
-            "id": 451,
+            "id": 805,
             "name": "deposited",
             "nodeType": "VariableDeclaration",
-            "scope": 601,
-            "src": "430:45:4",
+            "scope": 955,
+            "src": "430:45:6",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
@@ -2363,28 +2363,28 @@
               "typeString": "mapping(address => uint256)"
             },
             "typeName": {
-              "id": 450,
+              "id": 804,
               "keyType": {
-                "id": 448,
+                "id": 802,
                 "name": "address",
                 "nodeType": "ElementaryTypeName",
-                "src": "439:7:4",
+                "src": "439:7:6",
                 "typeDescriptions": {
                   "typeIdentifier": "t_address",
                   "typeString": "address"
                 }
               },
               "nodeType": "Mapping",
-              "src": "430:28:4",
+              "src": "430:28:6",
               "typeDescriptions": {
                 "typeIdentifier": "t_mapping$_t_address_$_t_uint256_$",
                 "typeString": "mapping(address => uint256)"
               },
               "valueType": {
-                "id": 449,
+                "id": 803,
                 "name": "uint256",
                 "nodeType": "ElementaryTypeName",
-                "src": "450:7:4",
+                "src": "450:7:6",
                 "typeDescriptions": {
                   "typeIdentifier": "t_uint256",
                   "typeString": "uint256"
@@ -2396,11 +2396,11 @@
           },
           {
             "constant": false,
-            "id": 453,
+            "id": 807,
             "name": "wallet",
             "nodeType": "VariableDeclaration",
-            "scope": 601,
-            "src": "479:21:4",
+            "scope": 955,
+            "src": "479:21:6",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
@@ -2408,10 +2408,10 @@
               "typeString": "address"
             },
             "typeName": {
-              "id": 452,
+              "id": 806,
               "name": "address",
               "nodeType": "ElementaryTypeName",
-              "src": "479:7:4",
+              "src": "479:7:6",
               "typeDescriptions": {
                 "typeIdentifier": "t_address",
                 "typeString": "address"
@@ -2422,26 +2422,26 @@
           },
           {
             "constant": false,
-            "id": 455,
+            "id": 809,
             "name": "state",
             "nodeType": "VariableDeclaration",
-            "scope": 601,
-            "src": "504:18:4",
+            "scope": 955,
+            "src": "504:18:6",
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
-              "typeIdentifier": "t_enum$_State_$447",
+              "typeIdentifier": "t_enum$_State_$801",
               "typeString": "enum RefundVault.State"
             },
             "typeName": {
               "contractScope": null,
-              "id": 454,
+              "id": 808,
               "name": "State",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 447,
-              "src": "504:5:4",
+              "referencedDeclaration": 801,
+              "src": "504:5:6",
               "typeDescriptions": {
-                "typeIdentifier": "t_enum$_State_$447",
+                "typeIdentifier": "t_enum$_State_$801",
                 "typeString": "enum RefundVault.State"
               }
             },
@@ -2450,47 +2450,47 @@
           },
           {
             "anonymous": false,
-            "id": 457,
+            "id": 811,
             "name": "Closed",
             "nodeType": "EventDefinition",
             "parameters": {
-              "id": 456,
+              "id": 810,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "539:2:4"
+              "src": "539:2:6"
             },
-            "src": "527:15:4"
+            "src": "527:15:6"
           },
           {
             "anonymous": false,
-            "id": 459,
+            "id": 813,
             "name": "RefundsEnabled",
             "nodeType": "EventDefinition",
             "parameters": {
-              "id": 458,
+              "id": 812,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "565:2:4"
+              "src": "565:2:6"
             },
-            "src": "545:23:4"
+            "src": "545:23:6"
           },
           {
             "anonymous": false,
-            "id": 465,
+            "id": 819,
             "name": "Refunded",
             "nodeType": "EventDefinition",
             "parameters": {
-              "id": 464,
+              "id": 818,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 461,
+                  "id": 815,
                   "indexed": true,
                   "name": "beneficiary",
                   "nodeType": "VariableDeclaration",
-                  "scope": 465,
-                  "src": "586:27:4",
+                  "scope": 819,
+                  "src": "586:27:6",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -2498,10 +2498,10 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 460,
+                    "id": 814,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
-                    "src": "586:7:4",
+                    "src": "586:7:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
                       "typeString": "address"
@@ -2512,12 +2512,12 @@
                 },
                 {
                   "constant": false,
-                  "id": 463,
+                  "id": 817,
                   "indexed": false,
                   "name": "weiAmount",
                   "nodeType": "VariableDeclaration",
-                  "scope": 465,
-                  "src": "615:17:4",
+                  "scope": 819,
+                  "src": "615:17:6",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -2525,10 +2525,10 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 462,
+                    "id": 816,
                     "name": "uint256",
                     "nodeType": "ElementaryTypeName",
-                    "src": "615:7:4",
+                    "src": "615:7:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -2538,15 +2538,15 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "585:48:4"
+              "src": "585:48:6"
             },
-            "src": "571:63:4"
+            "src": "571:63:6"
           },
           {
             "body": {
-              "id": 487,
+              "id": 841,
               "nodeType": "Block",
-              "src": "729:89:4",
+              "src": "729:89:6",
               "statements": [
                 {
                   "expression": {
@@ -2558,19 +2558,19 @@
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         },
-                        "id": 475,
+                        "id": 829,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
                         "lValueRequested": false,
                         "leftExpression": {
                           "argumentTypes": null,
-                          "id": 471,
+                          "id": 825,
                           "name": "_wallet",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 467,
-                          "src": "743:7:4",
+                          "referencedDeclaration": 821,
+                          "src": "743:7:6",
                           "typeDescriptions": {
                             "typeIdentifier": "t_address",
                             "typeString": "address"
@@ -2584,14 +2584,14 @@
                             {
                               "argumentTypes": null,
                               "hexValue": "30",
-                              "id": 473,
+                              "id": 827,
                               "isConstant": false,
                               "isLValue": false,
                               "isPure": true,
                               "kind": "number",
                               "lValueRequested": false,
                               "nodeType": "Literal",
-                              "src": "762:1:4",
+                              "src": "762:1:6",
                               "subdenomination": null,
                               "typeDescriptions": {
                                 "typeIdentifier": "t_rational_0_by_1",
@@ -2607,20 +2607,20 @@
                                 "typeString": "int_const 0"
                               }
                             ],
-                            "id": 472,
+                            "id": 826,
                             "isConstant": false,
                             "isLValue": false,
                             "isPure": true,
                             "lValueRequested": false,
                             "nodeType": "ElementaryTypeNameExpression",
-                            "src": "754:7:4",
+                            "src": "754:7:6",
                             "typeDescriptions": {
                               "typeIdentifier": "t_type$_t_address_$",
                               "typeString": "type(address)"
                             },
                             "typeName": "address"
                           },
-                          "id": 474,
+                          "id": 828,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -2628,13 +2628,13 @@
                           "lValueRequested": false,
                           "names": [],
                           "nodeType": "FunctionCall",
-                          "src": "754:10:4",
+                          "src": "754:10:6",
                           "typeDescriptions": {
                             "typeIdentifier": "t_address",
                             "typeString": "address"
                           }
                         },
-                        "src": "743:21:4",
+                        "src": "743:21:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
                           "typeString": "bool"
@@ -2648,18 +2648,18 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 470,
+                      "id": 824,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1528,
-                      "src": "735:7:4",
+                      "referencedDeclaration": 1882,
+                      "src": "735:7:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 476,
+                    "id": 830,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -2667,32 +2667,32 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "735:30:4",
+                    "src": "735:30:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 477,
+                  "id": 831,
                   "nodeType": "ExpressionStatement",
-                  "src": "735:30:4"
+                  "src": "735:30:6"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 480,
+                    "id": 834,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 478,
+                      "id": 832,
                       "name": "wallet",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 453,
-                      "src": "771:6:4",
+                      "referencedDeclaration": 807,
+                      "src": "771:6:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
                         "typeString": "address"
@@ -2702,45 +2702,45 @@
                     "operator": "=",
                     "rightHandSide": {
                       "argumentTypes": null,
-                      "id": 479,
+                      "id": 833,
                       "name": "_wallet",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 467,
-                      "src": "780:7:4",
+                      "referencedDeclaration": 821,
+                      "src": "780:7:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
                         "typeString": "address"
                       }
                     },
-                    "src": "771:16:4",
+                    "src": "771:16:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
                       "typeString": "address"
                     }
                   },
-                  "id": 481,
+                  "id": 835,
                   "nodeType": "ExpressionStatement",
-                  "src": "771:16:4"
+                  "src": "771:16:6"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 485,
+                    "id": 839,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 482,
+                      "id": 836,
                       "name": "state",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 455,
-                      "src": "793:5:4",
+                      "referencedDeclaration": 809,
+                      "src": "793:5:6",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_State_$447",
+                        "typeIdentifier": "t_enum$_State_$801",
                         "typeString": "enum RefundVault.State"
                       }
                     },
@@ -2750,18 +2750,18 @@
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 483,
+                        "id": 837,
                         "name": "State",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 447,
-                        "src": "801:5:4",
+                        "referencedDeclaration": 801,
+                        "src": "801:5:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_enum$_State_$447_$",
+                          "typeIdentifier": "t_type$_t_enum$_State_$801_$",
                           "typeString": "type(enum RefundVault.State)"
                         }
                       },
-                      "id": 484,
+                      "id": 838,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -2769,25 +2769,25 @@
                       "memberName": "Active",
                       "nodeType": "MemberAccess",
                       "referencedDeclaration": null,
-                      "src": "801:12:4",
+                      "src": "801:12:6",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_State_$447",
+                        "typeIdentifier": "t_enum$_State_$801",
                         "typeString": "enum RefundVault.State"
                       }
                     },
-                    "src": "793:20:4",
+                    "src": "793:20:6",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_enum$_State_$447",
+                      "typeIdentifier": "t_enum$_State_$801",
                       "typeString": "enum RefundVault.State"
                     }
                   },
-                  "id": 486,
+                  "id": 840,
                   "nodeType": "ExpressionStatement",
-                  "src": "793:20:4"
+                  "src": "793:20:6"
                 }
               ]
             },
-            "id": 488,
+            "id": 842,
             "implemented": true,
             "isConstructor": true,
             "isDeclaredConst": false,
@@ -2795,16 +2795,16 @@
             "name": "RefundVault",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 468,
+              "id": 822,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 467,
+                  "id": 821,
                   "name": "_wallet",
                   "nodeType": "VariableDeclaration",
-                  "scope": 488,
-                  "src": "705:15:4",
+                  "scope": 842,
+                  "src": "705:15:6",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -2812,10 +2812,10 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 466,
+                    "id": 820,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
-                    "src": "705:7:4",
+                    "src": "705:7:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
                       "typeString": "address"
@@ -2825,26 +2825,26 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "704:17:4"
+              "src": "704:17:6"
             },
             "payable": false,
             "returnParameters": {
-              "id": 469,
+              "id": 823,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "729:0:4"
+              "src": "729:0:6"
             },
-            "scope": 601,
-            "src": "684:134:4",
+            "scope": 955,
+            "src": "684:134:6",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 514,
+              "id": 868,
               "nodeType": "Block",
-              "src": "932:103:4",
+              "src": "932:103:6",
               "statements": [
                 {
                   "expression": {
@@ -2853,24 +2853,24 @@
                       {
                         "argumentTypes": null,
                         "commonType": {
-                          "typeIdentifier": "t_enum$_State_$447",
+                          "typeIdentifier": "t_enum$_State_$801",
                           "typeString": "enum RefundVault.State"
                         },
-                        "id": 499,
+                        "id": 853,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
                         "lValueRequested": false,
                         "leftExpression": {
                           "argumentTypes": null,
-                          "id": 496,
+                          "id": 850,
                           "name": "state",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 455,
-                          "src": "946:5:4",
+                          "referencedDeclaration": 809,
+                          "src": "946:5:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_State_$447",
+                            "typeIdentifier": "t_enum$_State_$801",
                             "typeString": "enum RefundVault.State"
                           }
                         },
@@ -2880,18 +2880,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 497,
+                            "id": 851,
                             "name": "State",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 447,
-                            "src": "955:5:4",
+                            "referencedDeclaration": 801,
+                            "src": "955:5:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_type$_t_enum$_State_$447_$",
+                              "typeIdentifier": "t_type$_t_enum$_State_$801_$",
                               "typeString": "type(enum RefundVault.State)"
                             }
                           },
-                          "id": 498,
+                          "id": 852,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -2899,13 +2899,13 @@
                           "memberName": "Active",
                           "nodeType": "MemberAccess",
                           "referencedDeclaration": null,
-                          "src": "955:12:4",
+                          "src": "955:12:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_State_$447",
+                            "typeIdentifier": "t_enum$_State_$801",
                             "typeString": "enum RefundVault.State"
                           }
                         },
-                        "src": "946:21:4",
+                        "src": "946:21:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
                           "typeString": "bool"
@@ -2919,18 +2919,18 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 495,
+                      "id": 849,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1528,
-                      "src": "938:7:4",
+                      "referencedDeclaration": 1882,
+                      "src": "938:7:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 500,
+                    "id": 854,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -2938,20 +2938,20 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "938:30:4",
+                    "src": "938:30:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 501,
+                  "id": 855,
                   "nodeType": "ExpressionStatement",
-                  "src": "938:30:4"
+                  "src": "938:30:6"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 512,
+                    "id": 866,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -2960,26 +2960,26 @@
                       "argumentTypes": null,
                       "baseExpression": {
                         "argumentTypes": null,
-                        "id": 502,
+                        "id": 856,
                         "name": "deposited",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 451,
-                        "src": "974:9:4",
+                        "referencedDeclaration": 805,
+                        "src": "974:9:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_mapping$_t_address_$_t_uint256_$",
                           "typeString": "mapping(address => uint256)"
                         }
                       },
-                      "id": 504,
+                      "id": 858,
                       "indexExpression": {
                         "argumentTypes": null,
-                        "id": 503,
+                        "id": 857,
                         "name": "investor",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 490,
-                        "src": "984:8:4",
+                        "referencedDeclaration": 844,
+                        "src": "984:8:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
                           "typeString": "address"
@@ -2990,7 +2990,7 @@
                       "isPure": false,
                       "lValueRequested": true,
                       "nodeType": "IndexAccess",
-                      "src": "974:19:4",
+                      "src": "974:19:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
                         "typeString": "uint256"
@@ -3005,18 +3005,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 509,
+                            "id": 863,
                             "name": "msg",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 1525,
-                            "src": "1020:3:4",
+                            "referencedDeclaration": 1879,
+                            "src": "1020:3:6",
                             "typeDescriptions": {
                               "typeIdentifier": "t_magic_message",
                               "typeString": "msg"
                             }
                           },
-                          "id": 510,
+                          "id": 864,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -3024,7 +3024,7 @@
                           "memberName": "value",
                           "nodeType": "MemberAccess",
                           "referencedDeclaration": null,
-                          "src": "1020:9:4",
+                          "src": "1020:9:6",
                           "typeDescriptions": {
                             "typeIdentifier": "t_uint256",
                             "typeString": "uint256"
@@ -3042,26 +3042,26 @@
                           "argumentTypes": null,
                           "baseExpression": {
                             "argumentTypes": null,
-                            "id": 505,
+                            "id": 859,
                             "name": "deposited",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 451,
-                            "src": "996:9:4",
+                            "referencedDeclaration": 805,
+                            "src": "996:9:6",
                             "typeDescriptions": {
                               "typeIdentifier": "t_mapping$_t_address_$_t_uint256_$",
                               "typeString": "mapping(address => uint256)"
                             }
                           },
-                          "id": 507,
+                          "id": 861,
                           "indexExpression": {
                             "argumentTypes": null,
-                            "id": 506,
+                            "id": 860,
                             "name": "investor",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 490,
-                            "src": "1006:8:4",
+                            "referencedDeclaration": 844,
+                            "src": "1006:8:6",
                             "typeDescriptions": {
                               "typeIdentifier": "t_address",
                               "typeString": "address"
@@ -3072,27 +3072,27 @@
                           "isPure": false,
                           "lValueRequested": false,
                           "nodeType": "IndexAccess",
-                          "src": "996:19:4",
+                          "src": "996:19:6",
                           "typeDescriptions": {
                             "typeIdentifier": "t_uint256",
                             "typeString": "uint256"
                           }
                         },
-                        "id": 508,
+                        "id": 862,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
                         "lValueRequested": false,
                         "memberName": "add",
                         "nodeType": "MemberAccess",
-                        "referencedDeclaration": 944,
-                        "src": "996:23:4",
+                        "referencedDeclaration": 1298,
+                        "src": "996:23:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_function_internal_pure$_t_uint256_$_t_uint256_$returns$_t_uint256_$bound_to$_t_uint256_$",
                           "typeString": "function (uint256,uint256) pure returns (uint256)"
                         }
                       },
-                      "id": 511,
+                      "id": 865,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -3100,62 +3100,62 @@
                       "lValueRequested": false,
                       "names": [],
                       "nodeType": "FunctionCall",
-                      "src": "996:34:4",
+                      "src": "996:34:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
                         "typeString": "uint256"
                       }
                     },
-                    "src": "974:56:4",
+                    "src": "974:56:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
                     }
                   },
-                  "id": 513,
+                  "id": 867,
                   "nodeType": "ExpressionStatement",
-                  "src": "974:56:4"
+                  "src": "974:56:6"
                 }
               ]
             },
-            "id": 515,
+            "id": 869,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
             "modifiers": [
               {
                 "arguments": [],
-                "id": 493,
+                "id": 847,
                 "modifierName": {
                   "argumentTypes": null,
-                  "id": 492,
+                  "id": 846,
                   "name": "onlyOwner",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 975,
-                  "src": "907:9:4",
+                  "referencedDeclaration": 1329,
+                  "src": "907:9:6",
                   "typeDescriptions": {
                     "typeIdentifier": "t_modifier$__$",
                     "typeString": "modifier ()"
                   }
                 },
                 "nodeType": "ModifierInvocation",
-                "src": "907:9:4"
+                "src": "907:9:6"
               }
             ],
             "name": "deposit",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 491,
+              "id": 845,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 490,
+                  "id": 844,
                   "name": "investor",
                   "nodeType": "VariableDeclaration",
-                  "scope": 515,
-                  "src": "889:16:4",
+                  "scope": 869,
+                  "src": "889:16:6",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -3163,10 +3163,10 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 489,
+                    "id": 843,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
-                    "src": "889:7:4",
+                    "src": "889:7:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
                       "typeString": "address"
@@ -3176,26 +3176,26 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "888:18:4"
+              "src": "888:18:6"
             },
             "payable": true,
             "returnParameters": {
-              "id": 494,
+              "id": 848,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "932:0:4"
+              "src": "932:0:6"
             },
-            "scope": 601,
-            "src": "872:163:4",
+            "scope": 955,
+            "src": "872:163:6",
             "stateMutability": "payable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 542,
+              "id": 896,
               "nodeType": "Block",
-              "src": "1073:116:4",
+              "src": "1073:116:6",
               "statements": [
                 {
                   "expression": {
@@ -3204,24 +3204,24 @@
                       {
                         "argumentTypes": null,
                         "commonType": {
-                          "typeIdentifier": "t_enum$_State_$447",
+                          "typeIdentifier": "t_enum$_State_$801",
                           "typeString": "enum RefundVault.State"
                         },
-                        "id": 524,
+                        "id": 878,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
                         "lValueRequested": false,
                         "leftExpression": {
                           "argumentTypes": null,
-                          "id": 521,
+                          "id": 875,
                           "name": "state",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 455,
-                          "src": "1087:5:4",
+                          "referencedDeclaration": 809,
+                          "src": "1087:5:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_State_$447",
+                            "typeIdentifier": "t_enum$_State_$801",
                             "typeString": "enum RefundVault.State"
                           }
                         },
@@ -3231,18 +3231,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 522,
+                            "id": 876,
                             "name": "State",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 447,
-                            "src": "1096:5:4",
+                            "referencedDeclaration": 801,
+                            "src": "1096:5:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_type$_t_enum$_State_$447_$",
+                              "typeIdentifier": "t_type$_t_enum$_State_$801_$",
                               "typeString": "type(enum RefundVault.State)"
                             }
                           },
-                          "id": 523,
+                          "id": 877,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -3250,13 +3250,13 @@
                           "memberName": "Active",
                           "nodeType": "MemberAccess",
                           "referencedDeclaration": null,
-                          "src": "1096:12:4",
+                          "src": "1096:12:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_State_$447",
+                            "typeIdentifier": "t_enum$_State_$801",
                             "typeString": "enum RefundVault.State"
                           }
                         },
-                        "src": "1087:21:4",
+                        "src": "1087:21:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
                           "typeString": "bool"
@@ -3270,18 +3270,18 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 520,
+                      "id": 874,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1528,
-                      "src": "1079:7:4",
+                      "referencedDeclaration": 1882,
+                      "src": "1079:7:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 525,
+                    "id": 879,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -3289,34 +3289,34 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1079:30:4",
+                    "src": "1079:30:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 526,
+                  "id": 880,
                   "nodeType": "ExpressionStatement",
-                  "src": "1079:30:4"
+                  "src": "1079:30:6"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 530,
+                    "id": 884,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 527,
+                      "id": 881,
                       "name": "state",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 455,
-                      "src": "1115:5:4",
+                      "referencedDeclaration": 809,
+                      "src": "1115:5:6",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_State_$447",
+                        "typeIdentifier": "t_enum$_State_$801",
                         "typeString": "enum RefundVault.State"
                       }
                     },
@@ -3326,18 +3326,18 @@
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 528,
+                        "id": 882,
                         "name": "State",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 447,
-                        "src": "1123:5:4",
+                        "referencedDeclaration": 801,
+                        "src": "1123:5:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_enum$_State_$447_$",
+                          "typeIdentifier": "t_type$_t_enum$_State_$801_$",
                           "typeString": "type(enum RefundVault.State)"
                         }
                       },
-                      "id": 529,
+                      "id": 883,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -3345,21 +3345,21 @@
                       "memberName": "Closed",
                       "nodeType": "MemberAccess",
                       "referencedDeclaration": null,
-                      "src": "1123:12:4",
+                      "src": "1123:12:6",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_State_$447",
+                        "typeIdentifier": "t_enum$_State_$801",
                         "typeString": "enum RefundVault.State"
                       }
                     },
-                    "src": "1115:20:4",
+                    "src": "1115:20:6",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_enum$_State_$447",
+                      "typeIdentifier": "t_enum$_State_$801",
                       "typeString": "enum RefundVault.State"
                     }
                   },
-                  "id": 531,
+                  "id": 885,
                   "nodeType": "ExpressionStatement",
-                  "src": "1115:20:4"
+                  "src": "1115:20:6"
                 },
                 {
                   "expression": {
@@ -3367,18 +3367,18 @@
                     "arguments": [],
                     "expression": {
                       "argumentTypes": [],
-                      "id": 532,
+                      "id": 886,
                       "name": "Closed",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 457,
-                      "src": "1141:6:4",
+                      "referencedDeclaration": 811,
+                      "src": "1141:6:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$__$returns$__$",
                         "typeString": "function ()"
                       }
                     },
-                    "id": 533,
+                    "id": 887,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -3386,15 +3386,15 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1141:8:4",
+                    "src": "1141:8:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 534,
+                  "id": 888,
                   "nodeType": "ExpressionStatement",
-                  "src": "1141:8:4"
+                  "src": "1141:8:6"
                 },
                 {
                   "expression": {
@@ -3404,18 +3404,18 @@
                         "argumentTypes": null,
                         "expression": {
                           "argumentTypes": null,
-                          "id": 538,
+                          "id": 892,
                           "name": "this",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 1554,
-                          "src": "1171:4:4",
+                          "referencedDeclaration": 1910,
+                          "src": "1171:4:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_contract$_RefundVault_$601",
+                            "typeIdentifier": "t_contract$_RefundVault_$955",
                             "typeString": "contract RefundVault"
                           }
                         },
-                        "id": 539,
+                        "id": 893,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -3423,7 +3423,7 @@
                         "memberName": "balance",
                         "nodeType": "MemberAccess",
                         "referencedDeclaration": null,
-                        "src": "1171:12:4",
+                        "src": "1171:12:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_uint256",
                           "typeString": "uint256"
@@ -3439,18 +3439,18 @@
                       ],
                       "expression": {
                         "argumentTypes": null,
-                        "id": 535,
+                        "id": 889,
                         "name": "wallet",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 453,
-                        "src": "1155:6:4",
+                        "referencedDeclaration": 807,
+                        "src": "1155:6:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         }
                       },
-                      "id": 537,
+                      "id": 891,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -3458,13 +3458,13 @@
                       "memberName": "transfer",
                       "nodeType": "MemberAccess",
                       "referencedDeclaration": null,
-                      "src": "1155:15:4",
+                      "src": "1155:15:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_transfer_nonpayable$_t_uint256_$returns$__$",
                         "typeString": "function (uint256)"
                       }
                     },
-                    "id": 540,
+                    "id": 894,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -3472,69 +3472,69 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1155:29:4",
+                    "src": "1155:29:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 541,
+                  "id": 895,
                   "nodeType": "ExpressionStatement",
-                  "src": "1155:29:4"
+                  "src": "1155:29:6"
                 }
               ]
             },
-            "id": 543,
+            "id": 897,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
             "modifiers": [
               {
                 "arguments": [],
-                "id": 518,
+                "id": 872,
                 "modifierName": {
                   "argumentTypes": null,
-                  "id": 517,
+                  "id": 871,
                   "name": "onlyOwner",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 975,
-                  "src": "1056:9:4",
+                  "referencedDeclaration": 1329,
+                  "src": "1056:9:6",
                   "typeDescriptions": {
                     "typeIdentifier": "t_modifier$__$",
                     "typeString": "modifier ()"
                   }
                 },
                 "nodeType": "ModifierInvocation",
-                "src": "1056:9:4"
+                "src": "1056:9:6"
               }
             ],
             "name": "close",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 516,
+              "id": 870,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "1053:2:4"
+              "src": "1053:2:6"
             },
             "payable": false,
             "returnParameters": {
-              "id": 519,
+              "id": 873,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "1073:0:4"
+              "src": "1073:0:6"
             },
-            "scope": 601,
-            "src": "1039:150:4",
+            "scope": 955,
+            "src": "1039:150:6",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 563,
+              "id": 917,
               "nodeType": "Block",
-              "src": "1235:92:4",
+              "src": "1235:92:6",
               "statements": [
                 {
                   "expression": {
@@ -3543,24 +3543,24 @@
                       {
                         "argumentTypes": null,
                         "commonType": {
-                          "typeIdentifier": "t_enum$_State_$447",
+                          "typeIdentifier": "t_enum$_State_$801",
                           "typeString": "enum RefundVault.State"
                         },
-                        "id": 552,
+                        "id": 906,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
                         "lValueRequested": false,
                         "leftExpression": {
                           "argumentTypes": null,
-                          "id": 549,
+                          "id": 903,
                           "name": "state",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 455,
-                          "src": "1249:5:4",
+                          "referencedDeclaration": 809,
+                          "src": "1249:5:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_State_$447",
+                            "typeIdentifier": "t_enum$_State_$801",
                             "typeString": "enum RefundVault.State"
                           }
                         },
@@ -3570,18 +3570,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 550,
+                            "id": 904,
                             "name": "State",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 447,
-                            "src": "1258:5:4",
+                            "referencedDeclaration": 801,
+                            "src": "1258:5:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_type$_t_enum$_State_$447_$",
+                              "typeIdentifier": "t_type$_t_enum$_State_$801_$",
                               "typeString": "type(enum RefundVault.State)"
                             }
                           },
-                          "id": 551,
+                          "id": 905,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -3589,13 +3589,13 @@
                           "memberName": "Active",
                           "nodeType": "MemberAccess",
                           "referencedDeclaration": null,
-                          "src": "1258:12:4",
+                          "src": "1258:12:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_State_$447",
+                            "typeIdentifier": "t_enum$_State_$801",
                             "typeString": "enum RefundVault.State"
                           }
                         },
-                        "src": "1249:21:4",
+                        "src": "1249:21:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
                           "typeString": "bool"
@@ -3609,18 +3609,18 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 548,
+                      "id": 902,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1528,
-                      "src": "1241:7:4",
+                      "referencedDeclaration": 1882,
+                      "src": "1241:7:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 553,
+                    "id": 907,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -3628,34 +3628,34 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1241:30:4",
+                    "src": "1241:30:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 554,
+                  "id": 908,
                   "nodeType": "ExpressionStatement",
-                  "src": "1241:30:4"
+                  "src": "1241:30:6"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 558,
+                    "id": 912,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 555,
+                      "id": 909,
                       "name": "state",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 455,
-                      "src": "1277:5:4",
+                      "referencedDeclaration": 809,
+                      "src": "1277:5:6",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_State_$447",
+                        "typeIdentifier": "t_enum$_State_$801",
                         "typeString": "enum RefundVault.State"
                       }
                     },
@@ -3665,18 +3665,18 @@
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 556,
+                        "id": 910,
                         "name": "State",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 447,
-                        "src": "1285:5:4",
+                        "referencedDeclaration": 801,
+                        "src": "1285:5:6",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_type$_t_enum$_State_$447_$",
+                          "typeIdentifier": "t_type$_t_enum$_State_$801_$",
                           "typeString": "type(enum RefundVault.State)"
                         }
                       },
-                      "id": 557,
+                      "id": 911,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -3684,21 +3684,21 @@
                       "memberName": "Refunding",
                       "nodeType": "MemberAccess",
                       "referencedDeclaration": null,
-                      "src": "1285:15:4",
+                      "src": "1285:15:6",
                       "typeDescriptions": {
-                        "typeIdentifier": "t_enum$_State_$447",
+                        "typeIdentifier": "t_enum$_State_$801",
                         "typeString": "enum RefundVault.State"
                       }
                     },
-                    "src": "1277:23:4",
+                    "src": "1277:23:6",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_enum$_State_$447",
+                      "typeIdentifier": "t_enum$_State_$801",
                       "typeString": "enum RefundVault.State"
                     }
                   },
-                  "id": 559,
+                  "id": 913,
                   "nodeType": "ExpressionStatement",
-                  "src": "1277:23:4"
+                  "src": "1277:23:6"
                 },
                 {
                   "expression": {
@@ -3706,18 +3706,18 @@
                     "arguments": [],
                     "expression": {
                       "argumentTypes": [],
-                      "id": 560,
+                      "id": 914,
                       "name": "RefundsEnabled",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 459,
-                      "src": "1306:14:4",
+                      "referencedDeclaration": 813,
+                      "src": "1306:14:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$__$returns$__$",
                         "typeString": "function ()"
                       }
                     },
-                    "id": 561,
+                    "id": 915,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -3725,69 +3725,69 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1306:16:4",
+                    "src": "1306:16:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 562,
+                  "id": 916,
                   "nodeType": "ExpressionStatement",
-                  "src": "1306:16:4"
+                  "src": "1306:16:6"
                 }
               ]
             },
-            "id": 564,
+            "id": 918,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
             "modifiers": [
               {
                 "arguments": [],
-                "id": 546,
+                "id": 900,
                 "modifierName": {
                   "argumentTypes": null,
-                  "id": 545,
+                  "id": 899,
                   "name": "onlyOwner",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 975,
-                  "src": "1218:9:4",
+                  "referencedDeclaration": 1329,
+                  "src": "1218:9:6",
                   "typeDescriptions": {
                     "typeIdentifier": "t_modifier$__$",
                     "typeString": "modifier ()"
                   }
                 },
                 "nodeType": "ModifierInvocation",
-                "src": "1218:9:4"
+                "src": "1218:9:6"
               }
             ],
             "name": "enableRefunds",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 544,
+              "id": 898,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "1215:2:4"
+              "src": "1215:2:6"
             },
             "payable": false,
             "returnParameters": {
-              "id": 547,
+              "id": 901,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "1235:0:4"
+              "src": "1235:0:6"
             },
-            "scope": 601,
-            "src": "1193:134:4",
+            "scope": 955,
+            "src": "1193:134:6",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
             "body": {
-              "id": 599,
+              "id": 953,
               "nodeType": "Block",
-              "src": "1422:202:4",
+              "src": "1422:202:6",
               "statements": [
                 {
                   "expression": {
@@ -3796,24 +3796,24 @@
                       {
                         "argumentTypes": null,
                         "commonType": {
-                          "typeIdentifier": "t_enum$_State_$447",
+                          "typeIdentifier": "t_enum$_State_$801",
                           "typeString": "enum RefundVault.State"
                         },
-                        "id": 573,
+                        "id": 927,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
                         "lValueRequested": false,
                         "leftExpression": {
                           "argumentTypes": null,
-                          "id": 570,
+                          "id": 924,
                           "name": "state",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 455,
-                          "src": "1436:5:4",
+                          "referencedDeclaration": 809,
+                          "src": "1436:5:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_State_$447",
+                            "typeIdentifier": "t_enum$_State_$801",
                             "typeString": "enum RefundVault.State"
                           }
                         },
@@ -3823,18 +3823,18 @@
                           "argumentTypes": null,
                           "expression": {
                             "argumentTypes": null,
-                            "id": 571,
+                            "id": 925,
                             "name": "State",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 447,
-                            "src": "1445:5:4",
+                            "referencedDeclaration": 801,
+                            "src": "1445:5:6",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_type$_t_enum$_State_$447_$",
+                              "typeIdentifier": "t_type$_t_enum$_State_$801_$",
                               "typeString": "type(enum RefundVault.State)"
                             }
                           },
-                          "id": 572,
+                          "id": 926,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -3842,13 +3842,13 @@
                           "memberName": "Refunding",
                           "nodeType": "MemberAccess",
                           "referencedDeclaration": null,
-                          "src": "1445:15:4",
+                          "src": "1445:15:6",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_enum$_State_$447",
+                            "typeIdentifier": "t_enum$_State_$801",
                             "typeString": "enum RefundVault.State"
                           }
                         },
-                        "src": "1436:24:4",
+                        "src": "1436:24:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_bool",
                           "typeString": "bool"
@@ -3862,18 +3862,18 @@
                           "typeString": "bool"
                         }
                       ],
-                      "id": 569,
+                      "id": 923,
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 1528,
-                      "src": "1428:7:4",
+                      "referencedDeclaration": 1882,
+                      "src": "1428:7:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
                         "typeString": "function (bool) pure"
                       }
                     },
-                    "id": 574,
+                    "id": 928,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -3881,28 +3881,28 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1428:33:4",
+                    "src": "1428:33:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 575,
+                  "id": 929,
                   "nodeType": "ExpressionStatement",
-                  "src": "1428:33:4"
+                  "src": "1428:33:6"
                 },
                 {
                   "assignments": [
-                    577
+                    931
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 577,
+                      "id": 931,
                       "name": "depositedValue",
                       "nodeType": "VariableDeclaration",
-                      "scope": 600,
-                      "src": "1467:22:4",
+                      "scope": 954,
+                      "src": "1467:22:6",
                       "stateVariable": false,
                       "storageLocation": "default",
                       "typeDescriptions": {
@@ -3910,10 +3910,10 @@
                         "typeString": "uint256"
                       },
                       "typeName": {
-                        "id": 576,
+                        "id": 930,
                         "name": "uint256",
                         "nodeType": "ElementaryTypeName",
-                        "src": "1467:7:4",
+                        "src": "1467:7:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_uint256",
                           "typeString": "uint256"
@@ -3923,31 +3923,31 @@
                       "visibility": "internal"
                     }
                   ],
-                  "id": 581,
+                  "id": 935,
                   "initialValue": {
                     "argumentTypes": null,
                     "baseExpression": {
                       "argumentTypes": null,
-                      "id": 578,
+                      "id": 932,
                       "name": "deposited",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 451,
-                      "src": "1492:9:4",
+                      "referencedDeclaration": 805,
+                      "src": "1492:9:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_mapping$_t_address_$_t_uint256_$",
                         "typeString": "mapping(address => uint256)"
                       }
                     },
-                    "id": 580,
+                    "id": 934,
                     "indexExpression": {
                       "argumentTypes": null,
-                      "id": 579,
+                      "id": 933,
                       "name": "investor",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 566,
-                      "src": "1502:8:4",
+                      "referencedDeclaration": 920,
+                      "src": "1502:8:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
                         "typeString": "address"
@@ -3958,19 +3958,19 @@
                     "isPure": false,
                     "lValueRequested": false,
                     "nodeType": "IndexAccess",
-                    "src": "1492:19:4",
+                    "src": "1492:19:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
                     }
                   },
                   "nodeType": "VariableDeclarationStatement",
-                  "src": "1467:44:4"
+                  "src": "1467:44:6"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 586,
+                    "id": 940,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -3979,26 +3979,26 @@
                       "argumentTypes": null,
                       "baseExpression": {
                         "argumentTypes": null,
-                        "id": 582,
+                        "id": 936,
                         "name": "deposited",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 451,
-                        "src": "1517:9:4",
+                        "referencedDeclaration": 805,
+                        "src": "1517:9:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_mapping$_t_address_$_t_uint256_$",
                           "typeString": "mapping(address => uint256)"
                         }
                       },
-                      "id": 584,
+                      "id": 938,
                       "indexExpression": {
                         "argumentTypes": null,
-                        "id": 583,
+                        "id": 937,
                         "name": "investor",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 566,
-                        "src": "1527:8:4",
+                        "referencedDeclaration": 920,
+                        "src": "1527:8:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
                           "typeString": "address"
@@ -4009,7 +4009,7 @@
                       "isPure": false,
                       "lValueRequested": true,
                       "nodeType": "IndexAccess",
-                      "src": "1517:19:4",
+                      "src": "1517:19:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_uint256",
                         "typeString": "uint256"
@@ -4020,14 +4020,14 @@
                     "rightHandSide": {
                       "argumentTypes": null,
                       "hexValue": "30",
-                      "id": 585,
+                      "id": 939,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
                       "kind": "number",
                       "lValueRequested": false,
                       "nodeType": "Literal",
-                      "src": "1539:1:4",
+                      "src": "1539:1:6",
                       "subdenomination": null,
                       "typeDescriptions": {
                         "typeIdentifier": "t_rational_0_by_1",
@@ -4035,15 +4035,15 @@
                       },
                       "value": "0"
                     },
-                    "src": "1517:23:4",
+                    "src": "1517:23:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
                     }
                   },
-                  "id": 587,
+                  "id": 941,
                   "nodeType": "ExpressionStatement",
-                  "src": "1517:23:4"
+                  "src": "1517:23:6"
                 },
                 {
                   "expression": {
@@ -4051,12 +4051,12 @@
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 591,
+                        "id": 945,
                         "name": "depositedValue",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 577,
-                        "src": "1564:14:4",
+                        "referencedDeclaration": 931,
+                        "src": "1564:14:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_uint256",
                           "typeString": "uint256"
@@ -4072,18 +4072,18 @@
                       ],
                       "expression": {
                         "argumentTypes": null,
-                        "id": 588,
+                        "id": 942,
                         "name": "investor",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 566,
-                        "src": "1546:8:4",
+                        "referencedDeclaration": 920,
+                        "src": "1546:8:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         }
                       },
-                      "id": 590,
+                      "id": 944,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -4091,13 +4091,13 @@
                       "memberName": "transfer",
                       "nodeType": "MemberAccess",
                       "referencedDeclaration": null,
-                      "src": "1546:17:4",
+                      "src": "1546:17:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_transfer_nonpayable$_t_uint256_$returns$__$",
                         "typeString": "function (uint256)"
                       }
                     },
-                    "id": 592,
+                    "id": 946,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -4105,15 +4105,15 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1546:33:4",
+                    "src": "1546:33:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 593,
+                  "id": 947,
                   "nodeType": "ExpressionStatement",
-                  "src": "1546:33:4"
+                  "src": "1546:33:6"
                 },
                 {
                   "expression": {
@@ -4121,12 +4121,12 @@
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 595,
+                        "id": 949,
                         "name": "investor",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 566,
-                        "src": "1594:8:4",
+                        "referencedDeclaration": 920,
+                        "src": "1594:8:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
                           "typeString": "address"
@@ -4134,12 +4134,12 @@
                       },
                       {
                         "argumentTypes": null,
-                        "id": 596,
+                        "id": 950,
                         "name": "depositedValue",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 577,
-                        "src": "1604:14:4",
+                        "referencedDeclaration": 931,
+                        "src": "1604:14:6",
                         "typeDescriptions": {
                           "typeIdentifier": "t_uint256",
                           "typeString": "uint256"
@@ -4157,18 +4157,18 @@
                           "typeString": "uint256"
                         }
                       ],
-                      "id": 594,
+                      "id": 948,
                       "name": "Refunded",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 465,
-                      "src": "1585:8:4",
+                      "referencedDeclaration": 819,
+                      "src": "1585:8:6",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$_t_address_$_t_uint256_$returns$__$",
                         "typeString": "function (address,uint256)"
                       }
                     },
-                    "id": 597,
+                    "id": 951,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -4176,19 +4176,19 @@
                     "lValueRequested": false,
                     "names": [],
                     "nodeType": "FunctionCall",
-                    "src": "1585:34:4",
+                    "src": "1585:34:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_tuple$__$",
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 598,
+                  "id": 952,
                   "nodeType": "ExpressionStatement",
-                  "src": "1585:34:4"
+                  "src": "1585:34:6"
                 }
               ]
             },
-            "id": 600,
+            "id": 954,
             "implemented": true,
             "isConstructor": false,
             "isDeclaredConst": false,
@@ -4196,16 +4196,16 @@
             "name": "refund",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 567,
+              "id": 921,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 566,
+                  "id": 920,
                   "name": "investor",
                   "nodeType": "VariableDeclaration",
-                  "scope": 600,
-                  "src": "1397:16:4",
+                  "scope": 954,
+                  "src": "1397:16:6",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -4213,10 +4213,10 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 565,
+                    "id": 919,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
-                    "src": "1397:7:4",
+                    "src": "1397:7:6",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
                       "typeString": "address"
@@ -4226,27 +4226,27 @@
                   "visibility": "internal"
                 }
               ],
-              "src": "1396:18:4"
+              "src": "1396:18:6"
             },
             "payable": false,
             "returnParameters": {
-              "id": 568,
+              "id": 922,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "1422:0:4"
+              "src": "1422:0:6"
             },
-            "scope": 601,
-            "src": "1381:243:4",
+            "scope": 955,
+            "src": "1381:243:6",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           }
         ],
-        "scope": 602,
-        "src": "319:1307:4"
+        "scope": 956,
+        "src": "319:1307:6"
       }
     ],
-    "src": "0:1627:4"
+    "src": "0:1627:6"
   },
   "compiler": {
     "name": "solc",
@@ -4254,5 +4254,5 @@
   },
   "networks": {},
   "schemaVersion": "2.0.0",
-  "updatedAt": "2018-04-02T13:24:23.301Z"
+  "updatedAt": "2018-04-15T12:40:40.259Z"
 }
